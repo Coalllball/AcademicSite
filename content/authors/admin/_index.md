@@ -4,10 +4,7 @@ title: Jiacheng Chen 陈嘉铖
 role: Data Analytics and Visualization M.S. Student at Pratt Institute \
 
  Data Analytics Fellow at the MET
-=======
-role: Data Analytics and Visualization M.S. Student at Pratt Institute | Data
-  Analytics Fellow at the MET
->>>>>>> e1cdf12179030dc1ae4b2ae607894dd9f3c202bc
+ 
 avatar_filename: avatar.jpg
 interests:
   - Data Analytics
