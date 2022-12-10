@@ -3,8 +3,8 @@
 
 title: "INTERNET RESOURCE GUIDE"
 subtitle: "For Penn State Undergraduate Students Of Statistics Majors"
-summary: "As Title"
-authors: [Jiacheng Chen]
+summary: "This a list of study resource concluded from my undergraduate experience for current and future Statistics Major Students."
+authors: [admin]
 tags: [Guide]
 categories: [Academic]
 date: 2020-12-04T12:33:36-05:00

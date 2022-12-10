@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "USING ARTIFICIAL INTELLIGENCE FOR CROWD COUNTING"
-subtitle: "EFFECTIVELY ESTIMATE THE NUMBER OF PEOPLE AT LARGE GATHERINGS AND RETAIL BUSINESSES"
-summary: "As Title"
-authors: [Jiacheng Chen]
+title: "Using Artificial Intelligence For Crowd Counting"
+subtitle: "Effectively Estimate The Number Of People At Large Gatherings And Retail Businesses"
+summary: "How Artificial Intelligence Can Used To Estimate Population Size."
+authors: [admin]
 tags: []
 categories: []
 date: 2020-12-03T15:07:20-05:00

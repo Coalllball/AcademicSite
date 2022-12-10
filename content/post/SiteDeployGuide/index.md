@@ -3,8 +3,8 @@
 
 title: "How I built my Personal Website Through GitHub + R Blogdown + Netlify"
 subtitle: ""
-summary: ""
-authors: [Jiacheng Chen]
+summary: "Start today and let the world know you!"
+authors: [admin]
 tags: [Guide]
 categories: []
 date: 2020-12-10T13:51:50-05:00
