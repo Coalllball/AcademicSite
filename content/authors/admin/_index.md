@@ -1,10 +1,9 @@
 ---
 title: Jiacheng Chen 陈嘉铖
-<<<<<<< HEAD
 role: Data Analytics and Visualization M.S. Student at Pratt Institute \
 
  Data Analytics Fellow at the MET
- 
+
 avatar_filename: avatar.jpg
 interests:
   - Data Analytics
