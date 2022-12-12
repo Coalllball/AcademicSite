@@ -1,6 +1,6 @@
 ---
 title: "From Punchcard to Unicode: A Brief History of Character Encoding"
-date: 2022-12-12T15:04:23.066Z
+date: 2022-02-11T15:04:23.066Z
 draft: false
 featured: false
 authors:
@@ -10,21 +10,14 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<!--StartFragment-->
 
-## **Background**
+## Background
 
-<!--EndFragment-->
 
-<!--StartFragment-->
 
 Characters are undoubtedly the most critical factor in every enduring civilization, driving the continued growth and development of culture and society. From the Cuneiform script of ancient Babylon to the Oracle script of ancient **China**, writing is the only long-standing visual practice in the history of visualization in human society. Many significant transformations have taken place in the history of character evolution to meet the new needs of humankind. As the world has entered the digital age, new challenges have come to light. Since the groundbreaking of the telegraph and the significant breakthroughs in computing technology, characters have needed to find a new form that better accommodates the high demands of human society for faster and more reliable recording and transformation. As a result, generations of intelligent people have dedicated their lives to adapting written-based characters to digital environments around the world in order to keep their unique cultures and histories thriving in the digital age, and to give them greater opportunities to achieve new heights in the new era. This report provides a brief history of the shift of written symbols to the digital environment and describes how people who use a character system different from English have worked to adapt their cultures to the new age.
 
-<!--EndFragment-->
 
-
-
-<!--StartFragment-->
 
 ## Process
 
@@ -32,11 +25,7 @@ Since there is a vast amount of documentation and literature on the development 
 
 The timeline used in this report contains three main periods, namely the foundation, development, and integration of the character encoding system evolution. The primary resources include [Character Encoding (2014)](https://link-springer-com.ezaccess.libraries.psu.edu/chapter/10.1007/978-1-4302-6653-2_19) and [CJK Information Processing (2009)](https://books.google.com/books?id=SA92uQqTB-AC&lpg=PA94&hl=zh-CN&pg=PA94#v=onepage&q&f=false).
 
-<!--EndFragment-->
 
-
-
-<!--StartFragment-->
 
 ## Findings
 
@@ -122,5 +111,3 @@ Lunde, Ken. *CJKV Information Processing*. Book, Whole. Beijing; Cambridge; O�
 Sharan, Kishori. “Character Encodings.” In *Beginning Java 8 Fundamentals: Language Syntax, Arrays, Data Types, Objects, and Regular Expressions*, edited by Kishori Sharan, 727–37. Berkeley, CA: Apress, 2014. <https://doi.org/10.1007/978-1-4302-6653-2_19>.
 
 “World Power Systems:Texts: Annotated History of Charactercodes.” Accessed February 10, 2022. <https://www.sr-ix.com/Archive/CharCodeHist/index.html>.
-
-<!--EndFragment-->
