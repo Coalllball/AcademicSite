@@ -84,7 +84,7 @@ sections:
         - title: Graduate Research Assistant
           company: Pratt Institute
           company_url: ''
-          company_logo: org-gc
+          company_logo: pratt-logo
           location: New York, NY
           date_start: '2022-10-01'
           date_end: ''
@@ -99,7 +99,7 @@ sections:
         - title: Data Analytics and Visualization Fellow
           company: The Metropolitan Museum of Art
           company_url: ''
-          company_logo: org-x
+          company_logo: met-logo
           location: New York, NY
           date_start: '2022-09-01'
           date_end: ''
@@ -124,7 +124,7 @@ sections:
         - title: CEO
           company: GenCoin
           company_url: ''
-          company_logo: org-gc
+          company_logo: psu-logo
           location: California
           date_start: '2021-01-01'
           date_end: ''
@@ -137,7 +137,7 @@ sections:
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
-          company_logo: org-x
+          company_logo: test
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
