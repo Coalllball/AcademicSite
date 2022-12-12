@@ -8,21 +8,21 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-## Background
+# Background
 
 Since Netflix entered the streaming market in 2007, its expansion never seems to have slowed down. As of mid-2021, they have over 8,000 movie and TV series stores on their platform for over 200 million paid subscribers. It is incredible to think that Netflix was once a small company whose main business was DVD rentals since 1997. Underlying Netflix’s commercial greatness is its vast database and detailed records that support its sophisticated recommendation algorithms. This project aims to examine the basics of the Netflix database, analyze the complexity of the database, and describe the dataset in a visual language, in the hope of giving readers a grounded understanding of this popular service.
 
-### Data Source
+## Data Source
 
 The dataset used in this project comes from [Kaggle.com](https://www.kaggle.com/shivamb/netflix-shows). The dataset contains metadata for Netflix’s movies and TV shows, including the original release date of each title and the date it was added to Netflix and director and cast information. In addition, other variables, such as age rating, country of production, duration, and descriptions, give these titles a complete picture. This dataset collects a total of 8,807 records, essentially covering Netflix’s full database.
 
-### Inspiration
+## Inspiration
 
 This project was inspired by Kaggle.com user Josh, who implemented visualization results through python. In [Josh’s work](https://www.kaggle.com/joshuaswords/netflix-data-visualization#By-Country), the visualization is used as a support tool for Exploratory Data Analysis (EDA), starting from a macro statistical overview of the entire database and gradually refining the analysis to find noteworthy points, eventually choosing the US and India as objectives for comparative analysis. Josh also places the python code used before the graphical results and includes the findings of his analysis and reflections after each outcome, giving a traceable line of thought to the article and making it easy for the reader to follow his path as one reads.
 
-## Process
+# Process
 
-### Design Idea
+## Design Idea
 
 While Josh’s article is in a very readable structure, it is more suitable as a python visualization tutorial and not very friendly to readers with no programming experience. In order to save reader‘s time and effort in gathering information, I think a dashboard would be more intuitive to convey the analysis results. In order to provide readers with the most accurate and comprehensive picture of the Netflix database, I chose the following topics for this dashboard:
 
@@ -40,23 +40,23 @@ This plot isolates the moth from the “added_date” column to show in which mo
 
 I think this graph is very well developed. The title and annotation clearly express the topic and the author’s findings. The color visually reminds the reader of the time’s order.In addition, author uses ascending order to arrange the rows makes difference noticable. Although its python code is complex, the graph is well worth referring to.
 
-### Tools Selection
+## Tools Selection
 
 Three tools were used to complete this project, each focusing on specific aspects to optimize the final presentation. These tools are R Studio, for data cleaning and exploratory data analysis; Coolors.co, for palette selection; and Tableau, for statistical analysis and data visualization.
 
-#### R Studio
+### R Studio
 
 [R Studio](https://www.rstudio.com/) is an open-source integrated development environment (IDE) for R, which is an excellent programming language for statistical computing. R is also very capable of data cleaning work. Datasets cleaned with R Studio simplify the visualization process and make many complex presentations feasible.
 
-#### Coolors.co
+### Coolors.co
 
 [Coolors.co](https://coolors.co/) is a web tool that allows users with no design background to generate perfect matching colors in seconds. This tool helped the design of this project by keeping the colors of the visual charts consistent and making the final result more readable.
 
-#### Tableau Public
+### Tableau Public
 
 [Tableau Public](https://public.tableau.com/en-us/s/) is the free community version of Tableau, the world-renowned data visualization tool. With the incredible growth of data volumes, the need to process data has never been greater. Tableau’s intuitive interaction with data dramatically reduces the time and expertise threshold required to create data visualizations, enabling users with less statistical background to quickly and accurately understand data and create high-quality charts. In addition, Tableau Public allows users to upload their visualizations on the server work for presentation. This project uses Tableau Public to create and store graphs.
 
-### Data Cleaning
+## Data Cleaning
 
 Since the focus of this project is on the statistics of the Netflix database, some variables in the dataset need to be modified in order to achieve the goal. Such data cleaning was performed through R Studio. The R code used is attached below for interested readers to verify.
 
@@ -83,7 +83,7 @@ write.csv(netflix_tv, "/Users/chenj/Desktop/SP 2022 Pratt/info658_dataVis/week6/
 write.csv(netflix3, "/Users/chenj/Desktop/SP 2022 Pratt/info658_dataVis/week6/netflix_datasets/netflix_v3.csv", row.names = T)
 ```
 
-### Color Palette
+## Color Palette
 
 ![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/03/Netflix_Logo_RGB-1-1024x430.png?resize=840%2C353&ssl=1)
 
@@ -97,7 +97,7 @@ The color palette used in this project is picked from the Netflix logo using [C
 
 Data visualization can be defined as the representation of numbers in shapes and colors. An effective color palette helps filter out unnecessary information distractions. The color palette used in this project is highly relevant to the topic it discusses, making it easy for users to quickly associate with Netflix and gain a deeper understanding of the data for efficient information gathering.
 
-## Visualization Results
+# Visualization Results
 
 The composition of Netflix’s database is divided into Movies and TV Shows. The titles summarize the themes and findings. The colors and shapes used in the chart also mimic Netflix’s brand theme, allowing the reader to connect with the topic.
 
@@ -107,15 +107,15 @@ The line plot displays the number of Netflix titles by added year and shows each
 
 Other graphs present statistics that may interest readers, such as the percentage of each genre, the number of titles produced in each country, Netflix age-graded status data, and which cast’s works Netflix includes the most. I placed the general statistics on the left and the more detailed data on the right. I think this layout matches most people’s cognitive path. I hope that readers will independently explore the connections between the data when viewing this dashboard to draw their conclusions or become more interested in exploring it more deeply. For example, while American productions make up most of the Netflix database, Bollywood actors are in more titles.
 
-## Reflection
+# Reflection
 
 During the process of making dashboard with Tableau, I encountered a lot of obstacles since I am not familiar with its mechanism. I eventually solved most of the problems by modifying the data cleanup procedure, but I still have many ideas that I could not finally implement in Tableau. My future plan is to recreate the genre charts with chord plots, since the bubble plot I am using now does not show the relationships among the genres and their sub-genres. I also plan to change the age rating chart to a pyramid plot to visualize the difference between movies and TV shows more noticeably.
 
-## Acknowledgment
+# Acknowledgment
 
 Thanks to Kaggle user [Shivam Bansal](https://www.kaggle.com/shivamb), who collected the dataset, making this project possible. Also thanks to [Josh’s data visualization](https://www.kaggle.com/joshuaswords/netflix-data-visualization) project for inspiring this project.
 
-## Resources
+# Resources
 
 1. “Inline XBRL Viewer.” Accessed March 3, 2022. <https://www.sec.gov/ix?doc=/Archives/edgar/data/1065280/000106528021000040/nflx-20201231.htm>. Help Center.
 2. “Maturity Ratings for TV Shows and Movies on Netflix.” Accessed March 3, 2022. <https://help.netflix.com/en/node/2064>.
