@@ -10,22 +10,15 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
 ## Background
 
-
-
 Characters are undoubtedly the most critical factor in every enduring civilization, driving the continued growth and development of culture and society. From the Cuneiform script of ancient Babylon to the Oracle script of ancient **China**, writing is the only long-standing visual practice in the history of visualization in human society. Many significant transformations have taken place in the history of character evolution to meet the new needs of humankind. As the world has entered the digital age, new challenges have come to light. Since the groundbreaking of the telegraph and the significant breakthroughs in computing technology, characters have needed to find a new form that better accommodates the high demands of human society for faster and more reliable recording and transformation. As a result, generations of intelligent people have dedicated their lives to adapting written-based characters to digital environments around the world in order to keep their unique cultures and histories thriving in the digital age, and to give them greater opportunities to achieve new heights in the new era. This report provides a brief history of the shift of written symbols to the digital environment and describes how people who use a character system different from English have worked to adapt their cultures to the new age.
-
-
 
 ## Process
 
 Since there is a vast amount of documentation and literature on the development of character encoding in modern history, this report is best served by presenting the history through a timeline visualization. The visualizations used in this report were created by [TimelineJS](https://timeline.knightlab.com/), a powerful open-source tool developed by Knight Lab. TimelineJS provides creators with a simple tool that allows their readers to explore through different points in time and to be informed by reading the authors’ annotations and viewing illustrations of events.
 
 The timeline used in this report contains three main periods, namely the foundation, development, and integration of the character encoding system evolution. The primary resources include [Character Encoding (2014)](https://link-springer-com.ezaccess.libraries.psu.edu/chapter/10.1007/978-1-4302-6653-2_19) and [CJK Information Processing (2009)](https://books.google.com/books?id=SA92uQqTB-AC&lpg=PA94&hl=zh-CN&pg=PA94#v=onepage&q&f=false).
-
-
 
 ## Findings
 
@@ -39,9 +32,7 @@ The need to convert information through signals emerged before mankind entered t
 
 When computers were first created, human-computer interaction as we know it today had not yet been invented. In the 1950s and 1960s, computers did not have keyboards and displays, and all input and output work had to be done using punched tapes. These tapes tell the computer how to perform some complex operations by conveying data and commands in binary code (0 or 1) and storing the results of the operations on other punched tapes. Initially, there was no uniform standard for how to use punched tapes to represent data, thus resulting in much unnecessary waste of resources. Therefore, in the 1960s, the American Standards Association led a project to develop a common code for data processing, which became ASCII (American Standard Code for Information Interchange).
 
-![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/1_1mOO6Lmh9ASEp_BRZvOJKQ-1024x682.jpeg?resize=840%2C559&ssl=1)
-
-International Morse Code by Damon Self
+![International Morse Code by Damon Self](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/1_1mOO6Lmh9ASEp_BRZvOJKQ-1024x682.jpeg?resize=840%2C559&ssl=1 "International Morse Code by Damon Self")
 
 ![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/93217b38-2285-46c4-9308-c15dc6ad5af0_800x600.jpg?resize=800%2C532&ssl=1)
 
