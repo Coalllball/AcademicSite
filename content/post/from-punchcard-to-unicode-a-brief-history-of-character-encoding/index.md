@@ -6,9 +6,10 @@ featured: false
 authors:
   - admin
 image:
-  filename: featured
+  filename: https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1189&q=80
   focal_point: Smart
   preview_only: false
+  caption: Photo by Markus Spiske on unsplash
 ---
 ## Background
 
@@ -50,17 +51,13 @@ Although ASCII perfectly solved the core problem of human-computer interaction, 
 
 In the 1980s, Asian countries began designing character encoding systems to support their languages in order to take advantage of the conveniences of the computer and digital age. For example, Chinese computer scientists invented the GBK character encoding to enable computers to recognize Chinese characters, Japan invented Shift_JIS, and Korea invented Euc-kr. However, despite the existence of so many character encoding systems, most of them only support their national languages and English. There is a  lack of a universal standard.
 
-![US-ASCII Code Chart. 1972 by an unknown officer or employee of the United States Government](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/1280px-USASCII_code_chart-1-1024x737.png?resize=840%2C605&ssl=1)
+![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/1280px-USASCII_code_chart-1-1024x737.png?resize=840%2C605&ssl=1 "US-ASCII Code Chart. 1972 by an unknown officer or employee of the United States Government")
+
+![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/ascii.png?resize=564%2C457&ssl=1 "Low & High ASCII Chart form [text-symbols.com](<>)  ![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/cjk-typeface-google.jpg?resize=800%2C408&ssl=1)")
 
 
 
-![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/ascii.png?resize=564%2C457&ssl=1)
-
-Low & High ASCII Chart form [text-symbols.com](<>)
-
-![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/cjk-typeface-google.jpg?resize=800%2C408&ssl=1)
-
-*Sample shared characters in Chinese, Japanese, and Korean* by Timothy Saar
+![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/cjk-typeface-google.jpg?resize=800%2C408&ssl=1 "*Sample shared characters in Chinese, Japanese, and Korean* by Timothy Saar")
 
 ### **The integration**
 
@@ -72,13 +69,9 @@ In the 1990s, the international organization ISO developed the Unicode character
 
 However, it was soon discovered that although Unicode solved the problem of unified character encoding, it took up more space and affected the quality of data transmission to the extent that garbled codes often appeared. In order to solve these problems, Unicode devised a wonderful solution, the UTF encoding rules, by using bytes of different lengths to read Unicode, ensuring that users in different regions could read characters in different languages at the same time without being affected, which greatly enhanced the popularity of the Internet.
 
-![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/maxresdefault-1024x576.jpg?resize=840%2C473&ssl=1)
+![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/maxresdefault-1024x576.jpg?resize=840%2C473&ssl=1 "Unicode logo & Sample Characters by Unicode Consortium  ![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/UTF8-t-1024x538.jpg?resize=840%2C441&ssl=1)")
 
-Unicode logo & Sample Characters by Unicode Consortium
-
-![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/UTF8-t-1024x538.jpg?resize=840%2C441&ssl=1)
-
-UTF-8 logo
+![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/UTF8-t-1024x538.jpg?resize=840%2C441&ssl=1 "UTF-8 logo")
 
 ### Reflection
 
