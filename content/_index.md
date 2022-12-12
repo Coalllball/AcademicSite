@@ -3,7 +3,8 @@
 title:
 date: 2022-10-24
 type: landing
-
+#this is a landing page, used as homepage, cange
+#contenet by blocks
 sections:
   # - block: hero
   #   content:
@@ -42,7 +43,13 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-
+    design: 
+      background:
+        gradient_end: '#1976d2'
+        gradient_start: '#004ba0'
+        text_color_light: true
+      columns: '3'
+#Features - skills
   # - block: features
   #   content:
   #     title: Skills
@@ -68,10 +75,11 @@ sections:
   #         icon: camera-retro
   #         icon_pack: fas
 
-
+#Experience - education
   - block: experience
+    id: education
     content:
-      title: Academic Experience
+      title: Education
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -81,37 +89,55 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Graduate Research Assistant
-          company: Pratt Institute
-          company_url: ''
+        - title: Pratt Institute
+          company: Data Analytics and Visualization, M.S.
+          company_url: 'https://www.pratt.edu/programs/ms-data-analytics-and-visualization/'
           company_logo: pratt-logo
           location: New York, NY
           date_start: '2022-10-01'
-          date_end: ''
+          date_end: '2023-05-13'
           description: 
           |2-
-              Responsibilities include:
+              - Related Courses: Information Visualization, Advance GIS Analysis, Database Design;
+              - Honor: Met Museum Data Analysis & Visualization Fellowship for Collections Information
+              - Scholarship & Awards, FA 2022, SP 2023:
+                - Hoffman Scholarship Fund;
+                - Hart Scholarship;
+                - Library School Graduates Association.
+              - GPA: 4.0/4.0
 
-              * Analysing
-              * Modelling
-              * Deploying
+        - title: Pennsylvania State University
+          company: Applied Statistics, B.S. \
 
-        - title: Data Analytics and Visualization Fellow
-          company: The Metropolitan Museum of Art
-          company_url: ''
-          company_logo: met-logo
+                    IST minor
+          company_url: 'https://science.psu.edu/stat'
+          company_logo: psu-logo
           location: New York, NY
           date_start: '2022-09-01'
           date_end: ''
           description: 
-          >- 
-            Taught electronic engineering and researched semiconductor physics.
+          |2-             
+              - Related Courses: Analysis of Variance, Applied Regression Analysis, Applied Time Series Analysis, Survey Sampling;
+              - Honors: Dean's List, FA 2020;
+              - Honors: Best Use of External Data, Datafest 2021;
+
+        - title: Country Day School of Costa Rica
+          company: High School
+          company_url: 'https://www.nordangliaeducation.com/en/our-schools/costa-rica/alajuela/country-day'
+          company_logo: test
+          location: Escazu, Costa Rica
+          date_start: '2013-05-01'
+          date_end: '2016-05-13'
+          description: 
+          |2-
+            - Honors: Citizenship Honor, 2014
     design:
       columns: '2'
-
+#Experience - professional
   - block: experience
+    id: professional
     content:
-      title: Industrial Experience
+      title: Professional Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -121,30 +147,35 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: psu-logo
-          location: California
-          date_start: '2021-01-01'
+        - title: The Metropolitan Museum of Art
+          company: Data Analytics and Visualization Fellow
+          company_url: 'https://www.metmuseum.org/'
+          company_logo: met-logo
+          location: New York, NY
+          date_start: '2021-09-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+            - Provide analytics on MET's growing online collection (about 500,000 objects currently).
+            - Work with the Met’s Public API to understand what is working, identify areas of improvement, what data visualizations can be created, and explore ways of measuring the use and impact of the API.
+            - Produce Wikidata visualizations (including knowledge graphs) that show how Met collections connect to other data sets outside the museum.
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: test
-          location: California
+        - title: Weeon Technology Co., Ltd.
+          company: Data Analyst trainee
+          company_url: 'http://weeon.cn/'
+          company_logo: weeon-logo
+          location: Beijing, China
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: 
+            |2-
+            - Assisted the General Manager with database management;
+            - Responsible for completing the collection and analysis of project bidding data;
+            - Completed the survival analysis model using R Studio, and analyzed past similar winning bids using time series to predict current or future bids;
+            - Completed the filtering and utilization of massive data and implemented data exploration, produced data package reports and composed report analysis.
+
     design:
       columns: '2'
-
+#Accomplishments - certifications
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -184,7 +215,7 @@ sections:
           url: ''
     design:
       columns: '2'
-
+#Collection - posts
   - block: collection
     id: posts
     content:
@@ -212,81 +243,90 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+
+# #Portfolio - projects
+#   - block: portfolio
+#     id: projects
+#     content:
+#       title: Projects
+#       filters:
+#         folders:
+#           - project
+#       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+#       default_button_index: 0
+#       # Filter toolbar (optional).
+#       # Add or remove as many filters (`filter_button` instances) as you like.
+#       # To show all items, set `tag` to "*".
+#       # To filter by a specific tag, set `tag` to an existing tag name.
+#       # To remove the toolbar, delete the entire `filter_button` block.
+#       buttons:
+#         - name: All
+#           tag: '*'
+#         - name: Deep Learning
+#           tag: Deep Learning
+#         - name: Other
+#           tag: Demo
+#     design:
+#       # Choose how many columns the section has. Valid values: '1' or '2'.
+#       columns: '1'
+#       view: showcase
+#       # For Showcase view, flip alternate rows?
+#       flip_alt_rows: false
+# #Gallery
+#   - block: markdown
+#     content:
+#       title: Gallery
+#       subtitle: ''
+#       text: |-
+#         {{< gallery album="demo" >}}
+#     design:
+#       columns: '1'
+# #Collection - publications
+#   - block: collection
+#     id: featured
+#     content:
+#       title: Featured Publications
+#       filters:
+#         folders:
+#           - publication
+#         featured_only: true
+#     design:
+#       columns: '2'
+#       view: card
+
+# #Collection - publications
+#   - block: collection
+#     content:
+#       title: Recent Publications
+#       text: |-
+#         {{% callout note %}}
+#         Quickly discover relevant content by [filtering publications](./publication/).
+#         {{% /callout %}}
+#       filters:
+#         folders:
+#           - publication
+#         exclude_featured: true
+#     design:
+#       columns: '2'
+#       view: citation
+# #Collection - talks
+#   - block: collection
+#     id: talks
+#     content:
+#       title: Recent & Upcoming Talks
+#       filters:
+#         folders:
+#           - event
+#     design:
+#       columns: '2'
+#       view: compact
+#   - block: tag_cloud
+#     content:
+#       title: Popular Topics
+#     design:
+#       columns: '2'
+
+#Contact
   - block: contact
     id: contact
     content:
@@ -295,43 +335,43 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      email: jchen674@pratt.edu
+      phone: +1 814-826-8961
+      #appointment_url: 'https://calendly.com'
+      # address:
+      #   street: 450 Serra Mall
+      #   city: Stanford
+      #   region: CA
+      #   postcode: '94305'
+      #   country: United States
+      #   country_code: US
+      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
+        # - icon: twitter
+        #   icon_pack: fab
+        #   name: DM Me
+        #   link: 'https://twitter.com/Twitter'
+        # - icon: skype
+        #   icon_pack: fab
+        #   name: Skype Me
+        #   link: 'skype:echo123?call'
         - icon: video
           icon_pack: fas
           name: Zoom Me
-          link: 'https://zoom.com'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          link: 'https://pratt.zoom.us/j/97195444103?pwd=bUhIMHpJNWJKam44MlJ3RVVPbzczdz09'
+      # # Automatically link email and phone or display as text?
+      # autolink: true
+      # # Email form provider
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '2'
 ---
