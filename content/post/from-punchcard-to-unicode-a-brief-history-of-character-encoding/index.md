@@ -34,9 +34,7 @@ When computers were first created, human-computer interaction as we know it toda
 
 ![International Morse Code by Damon Self](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/1_1mOO6Lmh9ASEp_BRZvOJKQ-1024x682.jpeg?resize=840%2C559&ssl=1 "International Morse Code by Damon Self")
 
-![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/93217b38-2285-46c4-9308-c15dc6ad5af0_800x600.jpg?resize=800%2C532&ssl=1)
-
-Computer paper tape with eight channels by CLIVE (MAX) MAXFIELD
+![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/93217b38-2285-46c4-9308-c15dc6ad5af0_800x600.jpg?resize=800%2C532&ssl=1 "Computer paper tape with eight channels by CLIVE (MAX) MAXFIELD")
 
 ### **The development**
 
@@ -52,10 +50,9 @@ Although ASCII perfectly solved the core problem of human-computer interaction, 
 
 In the 1980s, Asian countries began designing character encoding systems to support their languages in order to take advantage of the conveniences of the computer and digital age. For example, Chinese computer scientists invented the GBK character encoding to enable computers to recognize Chinese characters, Japan invented Shift_JIS, and Korea invented Euc-kr. However, despite the existence of so many character encoding systems, most of them only support their national languages and English. There is a  lack of a universal standard.
 
-![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/1280px-USASCII_code_chart-1-1024x737.png?resize=840%2C605&ssl=1)
+![US-ASCII Code Chart. 1972 by an unknown officer or employee of the United States Government](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/1280px-USASCII_code_chart-1-1024x737.png?resize=840%2C605&ssl=1)
 
-US-ASCII Code Chart. 1972 by\
-an unknown officer or employee of the United States Government
+
 
 ![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/ascii.png?resize=564%2C457&ssl=1)
 
