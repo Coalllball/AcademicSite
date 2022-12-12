@@ -1,25 +1,32 @@
 ---
-title: "From Punchcard to Unicode: A Brief History of Character Encoding"
+title: "From Punchcard to Unicode"
+subtitle: "A Brief History of Character Encoding"
+summary: "A Brief History of Character Encoding"
 date: 2022-02-11T15:04:23.066Z
 draft: false
 featured: false
 authors:
   - admin
 image:
-  filename: https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1189&q=80
+  filename: feature.png 
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   caption: Photo by Markus Spiske on unsplash
 ---
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1KwBlUwRvMk-8hPbI7A11NluuPaGXqNBrVhSh7kpeRr0&font=Default&lang=en&initial_zoom=2&height=650' width= '100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
 ## Background
 
-Characters are undoubtedly the most critical factor in every enduring civilization, driving the continued growth and development of culture and society. From the Cuneiform script of ancient Babylon to the Oracle script of ancient **China**, writing is the only long-standing visual practice in the history of visualization in human society. Many significant transformations have taken place in the history of character evolution to meet the new needs of humankind. As the world has entered the digital age, new challenges have come to light. Since the groundbreaking of the telegraph and the significant breakthroughs in computing technology, characters have needed to find a new form that better accommodates the high demands of human society for faster and more reliable recording and transformation. As a result, generations of intelligent people have dedicated their lives to adapting written-based characters to digital environments around the world in order to keep their unique cultures and histories thriving in the digital age, and to give them greater opportunities to achieve new heights in the new era. This report provides a brief history of the shift of written symbols to the digital environment and describes how people who use a character system different from English have worked to adapt their cultures to the new age.
+Characters are undoubtedly the most critical factor in every enduring civilization, driving the continued growth and development of culture and society. From the Cuneiform script of ancient Babylon to the Oracle script of ancient China, writing is the only long-standing visual practice in the history of visualization in human society. Many significant transformations have taken place in the history of character evolution to meet the new needs of humankind. As the world has entered the digital age, new challenges have come to light. Since the groundbreaking of the telegraph and the significant breakthroughs in computing technology, characters have needed to find a new form that better accommodates the high demands of human society for faster and more reliable recording and transformation. As a result, generations of intelligent people have dedicated their lives to adapting written-based characters to digital environments around the world in order to keep their unique cultures and histories thriving in the digital age, and to give them greater opportunities to achieve new heights in the new era. This report provides a brief history of the shift of written symbols to the digital environment and describes how people who use a character system different from English have worked to adapt their cultures to the new age.
 
 ## Process
 
 Since there is a vast amount of documentation and literature on the development of character encoding in modern history, this report is best served by presenting the history through a timeline visualization. The visualizations used in this report were created by [TimelineJS](https://timeline.knightlab.com/), a powerful open-source tool developed by Knight Lab. TimelineJS provides creators with a simple tool that allows their readers to explore through different points in time and to be informed by reading the authors’ annotations and viewing illustrations of events.
 
 The timeline used in this report contains three main periods, namely the foundation, development, and integration of the character encoding system evolution. The primary resources include [Character Encoding (2014)](https://link-springer-com.ezaccess.libraries.psu.edu/chapter/10.1007/978-1-4302-6653-2_19) and [CJK Information Processing (2009)](https://books.google.com/books?id=SA92uQqTB-AC&lpg=PA94&hl=zh-CN&pg=PA94#v=onepage&q&f=false).
+
+
 
 ## Findings
 
@@ -69,7 +76,7 @@ In the 1990s, the international organization ISO developed the Unicode character
 
 However, it was soon discovered that although Unicode solved the problem of unified character encoding, it took up more space and affected the quality of data transmission to the extent that garbled codes often appeared. In order to solve these problems, Unicode devised a wonderful solution, the UTF encoding rules, by using bytes of different lengths to read Unicode, ensuring that users in different regions could read characters in different languages at the same time without being affected, which greatly enhanced the popularity of the Internet.
 
-![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/maxresdefault-1024x576.jpg?resize=840%2C473&ssl=1 "Unicode logo & Sample Characters by Unicode Consortium  ![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/UTF8-t-1024x538.jpg?resize=840%2C441&ssl=1)")
+![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/maxresdefault-1024x576.jpg?resize=840%2C473&ssl=1 "Unicode logo & Sample Characters by Unicode Consortium")
 
 ![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/02/UTF8-t-1024x538.jpg?resize=840%2C441&ssl=1 "UTF-8 logo")
 
