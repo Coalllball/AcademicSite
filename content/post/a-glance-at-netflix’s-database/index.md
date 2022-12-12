@@ -85,10 +85,13 @@ write.csv(netflix3, "/Users/chenj/Desktop/SP 2022 Pratt/info658_dataVis/week6/ne
 
 ## Color Palette
 
-![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/03/Netflix_Logo_RGB-1-1024x430.png?resize=840%2C353&ssl=1 "Netflix Logo from [Netflix](https://brand.netflix.com/en/assets/)
+![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/03/Netflix_Logo_RGB-1-1024x430.png?resize=840%2C353&ssl=1)
 
-![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/03/netflix_color_postimg-1024x439.png?resize=840%2C360&ssl=1 "The color palette used in this project is picked from the Netflix logo using [Coolors.co](https://coolors.co/).")
+Netflix Logo from [Netflix](https://brand.netflix.com/en/assets/)
 
+![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/03/netflix_color_postimg-1024x439.png?resize=840%2C360&ssl=1)
+
+\
 Data visualization can be defined as the representation of numbers in shapes and colors. An effective color palette helps filter out unnecessary information distractions. The color palette used in this project is highly relevant to the topic it discusses, making it easy for users to quickly associate with Netflix and gain a deeper understanding of the data for efficient information gathering.
 
 # Visualization Results
@@ -103,7 +106,7 @@ Other graphs present statistics that may interest readers, such as the percentag
 
 # Reflection
 
-During the process of making dashboard with Tableau, I encountered a lot of obstacles since I am not familiar with its mechanism. I eventually solved most of the problems by modifying the data cleanup procedure, but I still have many ideas that I could not finally implement in Tableau. My future plan is to recreate the genre charts with chord plots, since the bubble plot I am using now does not show the relationships among the genres and their sub-genres. I also plan to change the age rating chart to a pyramid plot to visualize the difference between movies and TV shows more noticeably.
+During the process of making a dashboard with Tableau, I encountered a lot of obstacles since I am not familiar with its mechanism. I eventually solved most of the problems by modifying the data cleanup procedure, but I still have many ideas that I could not finally implement in Tableau. My future plan is to recreate the genre charts with chord plots, since the bubble plot I am using now does not show the relationships among the genres and their sub-genres. I also plan to change the age rating chart to a pyramid plot to visualize the difference between movies and TV shows more noticeably.
 
 # Acknowledgment
 
