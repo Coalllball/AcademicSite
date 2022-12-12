@@ -85,15 +85,11 @@ write.csv(netflix3, "/Users/chenj/Desktop/SP 2022 Pratt/info658_dataVis/week6/ne
 
 ## Color Palette
 
-![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/03/Netflix_Logo_RGB-1-1024x430.png?resize=840%2C353&ssl=1)
+![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/03/Netflix_Logo_RGB-1-1024x430.png?resize=840%2C353&ssl=1 "Netflix Logo from [Netflix](https://brand.netflix.com/en/assets/)  ![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/03/netflix_color_postimg-1024x439.png?resize=840%2C360&ssl=1)")
 
-Netflix Logo from [Netflix](https://brand.netflix.com/en/assets/)
 
-![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/03/netflix_color_postimg-1024x439.png?resize=840%2C360&ssl=1)
 
-Color Palette Created by using coolors.co
-
-The color palette used in this project is picked from the Netflix logo using [Coolors.co](https://coolors.co/).
+![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/03/netflix_color_postimg-1024x439.png?resize=840%2C360&ssl=1 "The color palette used in this project is picked from the Netflix logo using [Coolors.co](https://coolors.co/).")
 
 Data visualization can be defined as the representation of numbers in shapes and colors. An effective color palette helps filter out unnecessary information distractions. The color palette used in this project is highly relevant to the topic it discusses, making it easy for users to quickly associate with Netflix and gain a deeper understanding of the data for efficient information gathering.
 
