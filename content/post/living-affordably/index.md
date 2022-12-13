@@ -15,35 +15,36 @@ image:
   focal_point: ""
   preview_only: false
 ---
+
 # Introduction
 
 Living in New York City is not easy for many people. In addition to the high cost of daily necessities, housing expenses account for an absolute majority of New Yorkers’ incomes. According to an article from the New York Post, since 2021, New York has surpassed San Francisco as the most expensive city to live in the U.S. The average rental price for a one-bedroom apartment in New York City in 2022 is $3,532, 41 percent higher than it was in 2021, according to a report from zumper.com, a leading real estate rental platform. According to U.S. Census Bureau estimates, the Empire State is expected to lose about 320,000 population in 2021, and New York City’s population growth has fallen behind most other major cities in recent years.
 
 Historically, New York City government has struggled to deal with excessive rental prices. Since the 1970s, what is known as the affordable housing campaign has been proposed. The latest affordable housing plan was announced in 2014 with the goal of providing below-market rents to those in need to ease their burden of living and keep people out of homelessness. The 10-year plan covers all five boroughs with a $41 billion investment in construction and other aspects. By 2022, after eight years of the program, I would like to use both mapping and data analysis techniques to examine whether the plan is having a positive impact on people’s lives, and to show my findings in a visual way.
 
-# **Software**
+# Software
 
 The project’s goal was to use GIS and data analysis techniques to investigate the effectiveness of the 2014 Affordable Housing Program. I employed QGIS and R Studio to help me accomplish the objective and used Adobe Illustrator for the final visual adjustments and layout design.
 
-### **QGIS**
+## QGIS
 
 QGIS is a free and open-source GIS analysis software. The rich functions and vibrant community contributions make it very easy to use. Users need only a basic knowledge of geographic information to use it for GIS analysis and to design attractive visualizations.
 
-### **R Studio**
+## R Studio
 
 R Studio is an integrated development environment based on the R language. Users can use R Studio to manage data files and perform statistical analysis more efficiently. At the same time, the vibrant user community of R has created a number of useful packages that allow R to be used to produce effective visual charts as well.
 
-### **Adobe Illustrator**
+## Adobe Illustrator
 
 Adobe Illustrator is a graphic design software created by Adobe Systems. Its powerful features help designers express the ideas in their minds on screen. In this project, Adobe Illustrator is used to organizing the graphic outputs of other software and produce the final visualization.
 
-# **Proces**s
+# Process
 
 ## Data Sources
 
 The datasets used in this project are collected from the Open NYC and U.S. Census Bureau. I used NYC’s 2020 census tract data to create the choropleth base map. The final datasets I used in this project include gross rent as a percentage of household income, percentage of poverty, new york housing units by building, Law 44 rent affordability, and law 44 unit income rent.
 
-## **Prepare the Datasets**
+## Prepare the Datasets
 
 To begin data collection, I searched the New York City Department of Housing Preservation and Development (HPD) website and found information on participating projects and buildings in the Affordable Housing Plan on Open NYC. The affordable housing datasets are stored in three separate files, each with information on a different aspect of the project. These datasets are very comprehensive, including factors such as exact building locations, project start and end dates, the number of units of each type, and the affordability category of each unit. While it took a lot of effort to clean up the data, the richness of the dataset gave me a lot of freedom in the data analysis process.
 
@@ -51,11 +52,11 @@ To collect data on poverty and rental burdens data in New York City, I followed 
 
 The data cleaning process took most of my time to prepare the analysis. Then, I used a combination of QGIS and R Studio to merge the different datasets. At last, the datasets can accurately display the poverty percentage, rental burden percentage, and unit affordability on the NYC census tract map.
 
-## **GIS and Data Analysis** Process
+## GIS and Data Analysis Process
 
 The strategy of my analysis is first to display the dataset on the maps and then compare the maps to find interesting places to further investigate.
 
-### **Poverty Percentage Distribution**
+### Poverty Percentage Distribution
 
 With the help of QGIS, I was able to project data on the percentage of poverty obtained from the Census 2020 onto a map. This map presents the percentage of individuals and families within each tract whose annual household income is below the poverty line. I used a mono-color tone to indicate the level of poverty in each tract. The darker red indicates a higher poverty rate in that tract, while the lighter red indicates a lower poverty rate.
 
@@ -71,7 +72,7 @@ Poverty Rate Distribution, NYC, 2020
 
 In this histogram, we can see a clear right skew in the distribution of poverty rates across tracts in New York City. Most of the tracts have less than 50% of the population in poverty. While there are relatively few tracts with extreme poverty rate, on the other hand, it is notable that the distribution of households with annual incomes below the poverty line is very broad.
 
-### **Rental Burdens Distribution**
+### Rental Burdens Distribution
 
 This map can be easily obtained by using the same process as the previous poverty rate map. I also used monotone to indicate the percentage of rental difficulties in each tract by different shades. In this map, the darker blue indicates a higher percentage of residents’ rent is over 35% of their income, while the lighter blue indicates the opposite.
 
@@ -85,7 +86,7 @@ Most tracts have residents with varying degrees of rental burden. Combined with 
 
 Percentage of Rental burden, NYC, 2020
 
-### **Affordable Housing Distribution**
+### Affordable Housing Distribution
 
 The mapping process is similar to the previous maps, I kept the mono-color style to display the affordable housing units count in each tract. The darker shade of green indicates more affordable housing units in the tract and the lighter shade indicates the opposite.
 
@@ -95,7 +96,7 @@ Affordable Housing Units Count, NYC, *2014 – 2022*, click [link ](https://d
 
 After comparing the first two maps and noticing the overlap between the poverty rate and rental burden, I also focused on the same areas in this map (the tracts marked with light blue borders, where both the poverty rate and rental burden rate are over 30%). Through careful observation, I found that although the distributions of poverty rate, rental burden rate, and affordable housing generally overlapped, the values of the other two factors were mostly lower in tracts with more affordable housing units than in the surrounding tracts. This finding inspired me to further explore whether the effect of the affordable housing plan between 2014 and 2022 could be verified by comparing the poverty and rental affordability rates of tracts with more affordable housing units with those of neighboring tracts.
 
-### **Hypothesis Test**
+### Hypothesis Test
 
 Through the observation of the three maps, I proposed the following hypothesis:
 
@@ -136,7 +137,7 @@ The p-value for the Poverty Rate correlation test is significantly less than 0.0
 
 In conclusion, the test results reflect that tracts that have affordable housing units have a lower poverty rate than the tracts doesn’t have those, with more affordable housing units built in a tract, the poverty rate is lower. However, rental burden rate and affordable housing unit number don’t necessarily have a relationship.
 
-### **Residents Complaints Analysis**
+### Residents Complaints Analysis
 
 At last, I created a series of treemaps to visualize the composition of affordable housing residents’ complaints from 2014 to 2021. I would like to identify what problem concerns the most to these residents in order to have a general idea of the affordable housing construction quality. I categorized the complaints by three levels:
 
@@ -148,6 +149,7 @@ The original size plots can be found with this [link](https://drive.google.com/
 
 {{< gallery album="living-affordably" >}}
 
+\
 From this series of diagrams, we can see that complaints about Heat and Unsanitary Conditions are overwhelmingly common, which aroused my curiosity. I wanted to get a deeper understanding of the causes of these problems, but unfortunately, the complaint dataset I found did not indicate which building the problem occurred in, so I could only speculate on the causes to the best of my ability.
 
 I first calculated the ratio of affordable housing construction types as of 2021, where the number of new construction units is 2354, which is lower than the 3277 preservation construction units, a ratio of about 1:1.4. However, I could not find the initial completion date of preservation buildings, but preservation buildings make up the majority of the affordable housing plan and the complaints data is calculated from 2014, when most new buildings were not yet built, thus I assume this is the reason for complaints are mostly focused on Heat and Unsanitary Condition.
@@ -158,7 +160,7 @@ Taking a step further, I used R Studio to make a very rough line graph comparing
 
 However, the actual situation is way too complex and my current datasets are not enough to support further investigation. I will further explore this topic in the future when I have a chance.
 
-## **Finding**
+## Finding
 
 In conclusion, through this series of GIS and data analysis, I was able to show that rent prices in New York City are generally too high, and in combination with the distribution of poverty rates in New York City, I was able to confirm that the need for Affordable Housing Plan is genuine. Furthermore, through statistical analysis, I was able to demonstrate that the Affordable Housing Plan has had a positive impact on the lives of people in desperate need of housing.
 
@@ -194,7 +196,7 @@ I started by adding descriptive text to introduce the background of the Affordab
 
 The color palette of this poster is very restrained, using only black, white, and red to increase contrast and prioritize the elements in the image. I reduced the saturation of the colors to make the overall picture more harmonious. I also used shapes and lines to differentiate the sections and show different content in each of them. Finally, I used visual guidelines to link the sections together to form the story.
 
-# **Conclusion and Consederation**
+# Conclusion and Consederation
 
 There are several things that could be done better in future studies. First, the data sets used for comparison are not up-to-date. It is an expedient measure to compare the 2020 poverty rate and rental affordability percentages with the distribution of total affordable housing units. Ideally, a dynamic map showing these three factors by year would be more intuitive to read and would produce more accurate data analysis. Second, the complaint analysis in this project is fairly basic, and there are more aspects to explore in depth in possible future projects. Finally, the study of Affordable Housing Program‘s impact only considered the poverty rate and rent burden ratio. More aspects such as surrounding educational resources, security, and amenities deserve deeper discussion.
 
