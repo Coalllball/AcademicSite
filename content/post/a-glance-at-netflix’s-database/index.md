@@ -5,6 +5,9 @@ draft: false
 featured: false
 authors:
   - admin
+tags:
+  - Data Visualization
+  - Dashboard
 image:
   filename: netflix_logo_rgb.png
   focal_point: Smart

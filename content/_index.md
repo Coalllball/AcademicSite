@@ -282,8 +282,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Data Visualization
+          tag: Data Visualization
+        - name: Data Analysis
+          tag: data analysis
+        - name: Academic
+          tag: academic
         - name: Other
           tag: Demo
     design:

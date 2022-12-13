@@ -10,7 +10,7 @@ authors:
   - admin
 toc: true
 lastmod: 2020-12-10T15:07:20-05:00
-tags: []
+tags: [Academic]
 categories: []
 projects: []
 image:

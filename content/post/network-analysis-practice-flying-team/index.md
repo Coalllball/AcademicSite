@@ -5,6 +5,9 @@ draft: false
 featured: false
 authors:
   - admin
+tags: 
+  - Data Visulization
+  - Newworks
 image:
   filename: cover.webp
   focal_point: Smart
