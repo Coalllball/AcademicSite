@@ -1,32 +1,25 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "INTERNET RESOURCE GUIDE"
-subtitle: "For Penn State Undergraduate Students Of Statistics Majors"
-summary: "This a list of study resource concluded from my undergraduate experience for current and future Statistics Major Students."
-authors: [admin]
-tags: [Guide]
-categories: [Academic]
+title: INTERNET RESOURCE GUIDE
+subtitle: For Penn State Undergraduate Students Of Statistics Majors
 date: 2020-12-04T12:33:36-05:00
-lastmod: 2020-12-04T12:33:36-05:00
-featured: true
+summary: This a list of study resource concluded from my undergraduate
+  experience for current and future Statistics Major Students.
 draft: false
+featured: true
+authors:
+  - admin
 toc: true
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: "Statistics"
-  focal_point: "Left"
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+lastmod: 2020-12-04T12:33:36-05:00
+tags:
+  - Guide
+categories:
+  - Academic
 projects: []
+image:
+  caption: Statistics
+  focal_point: Left
+  preview_only: false
+  filename: clayton-robbins-7r7-7rldwcu-unsplash.jpg
 ---
 
 {{% toc %}}
