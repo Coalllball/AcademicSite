@@ -3,6 +3,8 @@ title: A Glance at Netflix’s Database
 date: 2022-03-05T18:02:12.226Z
 draft: false
 featured: false
+authors:
+  - admin
 image:
   filename: featured
   focal_point: Smart
