@@ -122,16 +122,16 @@ sections:
               - Honors: Dean's List, FA 2020;
               - Honors: Best Use of External Data, Datafest 2021;
 
-        - title: Country Day School of Costa Rica
-          company: High School
-          company_url: 'https://www.nordangliaeducation.com/en/our-schools/costa-rica/alajuela/country-day'
-          company_logo: test
-          location: Escazu, Costa Rica
-          date_start: '2013-05-01'
-          date_end: '2016-05-13'
-          description: 
-          |2-
-            - Honors: Citizenship Honor, 2014
+        # - title: Country Day School of Costa Rica
+        #   company: High School
+        #   company_url: 'https://www.nordangliaeducation.com/en/our-schools/costa-rica/alajuela/country-day'
+        #   company_logo: test
+        #   location: Escazu, Costa Rica
+        #   date_start: '2013-05-01'
+        #   date_end: '2016-05-13'
+        #   description: 
+        #   |2-
+        #     - Honors: Citizenship Honor, 2014
     design:
       columns: '2'
 #Experience - professional
