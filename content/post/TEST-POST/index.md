@@ -1,32 +1,23 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "Using Artificial Intelligence For Crowd Counting"
-subtitle: "Effectively Estimate The Number Of People At Large Gatherings And Retail Businesses"
-summary: "How Artificial Intelligence Can Used To Estimate Population Size."
-authors: [admin]
+title: Using Artificial Intelligence For Crowd Counting
+subtitle: Effectively Estimate The Number Of People At Large Gatherings And
+  Retail Businesses
+date: 2020-12-10T15:07:20-05:00
+summary: How Artificial Intelligence Can Used To Estimate Population Size.
+draft: false
+featured: false
+authors:
+  - admin
+toc: true
+lastmod: 2020-12-10T15:07:20-05:00
 tags: []
 categories: []
-date: 2020-12-10T15:07:20-05:00
-lastmod: 2020-12-10T15:07:20-05:00
-featured: false
-draft: false
-toc: true
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: "Getty Images/iStockphoto"
-  focal_point: "Smart"
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
+image:
+  caption: Getty Images/iStockphoto
+  focal_point: Smart
+  preview_only: false
+  filename: 1.png
 ---
 ## INTRODUCTION
 
