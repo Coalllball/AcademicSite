@@ -123,16 +123,16 @@ sections:
               - Honors: Dean's List, FA 2020;
               - Honors: Best Use of External Data, Datafest 2021;
 
-        # - title: Country Day School of Costa Rica
-        #   company: High School
-        #   company_url: 'https://www.nordangliaeducation.com/en/our-schools/costa-rica/alajuela/country-day'
-        #   company_logo: test
-        #   location: Escazu, Costa Rica
-        #   date_start: '2013-05-01'
-        #   date_end: '2016-05-13'
-        #   description: 
-        #   |2-
-        #     - Honors: Citizenship Honor, 2014
+        - title: Country Day School of Costa Rica
+          company: High School
+          company_url: 'https://www.nordangliaeducation.com/en/our-schools/costa-rica/alajuela/country-day'
+          company_logo: test
+          location: Escazu, Costa Rica
+          date_start: '2013-05-01'
+          date_end: '2016-05-13'
+          description: 
+          |2-
+            - Honors: Citizenship Honor, 2014 - 2016
     design:
       columns: '2'
 #Experience - professional
@@ -176,8 +176,30 @@ sections:
               - Composed weekly research reports and data analysis related documentations for the research team.
               - Helped with literature reviews.
 
+        - title: Significance Validation Test of the Lipstick Effect in Brazil During 1989 to 2016
+          company: Team Leader
+          company_url: 'https://www.causeweb.org/usproc/'
+          company_logo: psu-logo
+          location: State College, PA
+          date_start: '2020-09-01'
+          date_end: '2020-12-31'
+          description: 
+            |2-
+            - This project is part of STAT 470W and was carried out by a team of three who chose their own topics.
+            - This project was conducted by using Time Series Analysis and Generalized Additive Models (GAM) to analyze the imports of cosmetics in Brazil from 1989 to 2016 to verify whether the "Lipstick Effect" is regionally significant in Brazil.
+            - The project participated the Undergraduate Research Project Competition (USRESP), FA 2020.
 
-
+        - title: Stat 200 | Elementary Statistics
+          company: Learning Assistant
+          company_url: 'https://online.stat.psu.edu/stat200/'
+          company_logo: psu-logo
+          location: State College, PA
+          date_start: '2018-01-01'
+          date_end: '2018-05-31'
+          description: 
+            |2-
+            - Answered students' questions with Stat 200 course materials.
+            - Helped students with labs and assignments.
 
 
         - title: Weeon Technology Co., Ltd.
@@ -194,7 +216,17 @@ sections:
             - Completed the survival analysis model using R Studio, and analyzed past similar winning bids using time series to predict current or future bids;
             - Completed the filtering and utilization of massive data and implemented data exploration, produced data package reports and composed report analysis.
   
-
+        - title: Stat 200 | Elementary Statistics
+          company: Learning Assistant
+          company_url: 'https://online.stat.psu.edu/stat200/'
+          company_logo: psu-logo
+          location: State College, PA
+          date_start: '2017-08-01'
+          date_end: '2017-12-31'
+          description: 
+            |2-
+            - Answered students' questions with Stat 200 course materials.
+            - Helped students with labs and assignments.
     design:
       columns: '2'
 #Accomplishments - certifications
@@ -358,7 +390,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+
       # Contact (add or remove contact options as necessary)
       email: jchen674@pratt.edu
       phone: +1 814-826-8961

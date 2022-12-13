@@ -54,4 +54,3 @@ education:
 email: chenjiacheng00@gmail.com
 superuser: true
 ---
-I am 
