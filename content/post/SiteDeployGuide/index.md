@@ -1,32 +1,24 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "How I built my Personal Website Through GitHub + R Blogdown + Netlify"
+title: How I built my Personal Website Through GitHub + R Blogdown + Netlify
 subtitle: ""
-summary: "Start today and let the world know you!"
-authors: [admin]
-tags: [Guide]
-categories: []
 date: 2020-12-03T13:51:50-05:00
-lastmod: 2020-12-03T13:51:50-05:00
-featured: false
+summary: Start today and let the world know you!
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+featured: false
+authors:
+  - admin
+toc: true
+lastmod: 2020-12-03T13:51:50-05:00
+tags:
+  - Guide
+  - Start
+categories: []
+projects: []
 image:
   caption: ""
-  focal_point: ""
+  focal_point: smart
   preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-toc: true
+  filename: dayne-topkin-y5_mfllmwjk-unsplash.jpg
 ---
 
 ## Why do you need a personal website?
