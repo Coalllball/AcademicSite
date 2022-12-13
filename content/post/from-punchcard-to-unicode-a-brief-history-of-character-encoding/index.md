@@ -7,6 +7,9 @@ draft: false
 featured: false
 authors:
   - admin
+tags:
+  - Timeline
+  - Data Visualization
 image:
   filename: feature.png 
   focal_point: Smart

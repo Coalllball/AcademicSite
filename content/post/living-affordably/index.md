@@ -5,9 +5,14 @@ date: 2022-12-12T22:56:00-05:00
 summary: Analysis of Nyc Affordable Housing Plan (2014 – 2022)
 draft: false
 featured: false
-authors: []
+authors: [admin]
 lastmod: 2022-12-12T22:56:00-05:00
-tags: []
+tags:
+  - Data Visualization
+  - Data Analysis
+  - GIS
+  - Map
+  - Design
 categories: []
 projects: []
 image:
