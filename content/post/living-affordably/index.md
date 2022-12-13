@@ -146,30 +146,7 @@ At last, I created a series of treemaps to visualize the composition of affordab
 
 The original size plots can be found with this [link](https://drive.google.com/drive/folders/1yNzCmm6TbMsnYTU6AbhmUIdRRkV0Vx-F?usp=sharing).
 
-<!--StartFragment-->
-
-The original size plots can be found with this [link](https://drive.google.com/drive/folders/1yNzCmm6TbMsnYTU6AbhmUIdRRkV0Vx-F?usp=sharing).
-
-* ![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/05/nonEmergency.png?resize=840%2C1631)
-
-  Non Emergency
-* ![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/05/Picture1-min.png?resize=840%2C1186)
-
-  Emergency
-* ![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/05/hazardous.png?resize=840%2C1260)
-
-  Hazardous
-* ![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/05/immediateEmergency.png?resize=840%2C1106)
-
-  Immediate Emergency
-* ![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/05/nonEmergency.png?resize=840%2C1631)
-
-  Non Emergency
-* ![](https://i0.wp.com/studentwork.prattsi.org/infovis/wp-content/uploads/sites/3/2022/05/Picture1-min.png?resize=840%2C1186)
-
-  Emergency
-
-[](<>)[](<>)[](<>)Emergency
+{{< gallery album="living-affordably" >}}
 
 From this series of diagrams, we can see that complaints about Heat and Unsanitary Conditions are overwhelmingly common, which aroused my curiosity. I wanted to get a deeper understanding of the causes of these problems, but unfortunately, the complaint dataset I found did not indicate which building the problem occurred in, so I could only speculate on the causes to the best of my ability.
 
