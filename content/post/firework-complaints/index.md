@@ -37,7 +37,7 @@ In order to present the amount of illegal fireworks complaints in each region of
 
 There have been many media stories about the flood of illegal fireworks in the summer of 2020. One of the articles from [Gothamist.com](https://gothamist.com/news/map-shows-where-fireworks-complaints-are-exploding-summer) interested me the most. This article included a dynamic map of fireworks complaints that visually illustrated the surge in the number of fireworks complaints in June 2020.
 
-![](https://i0.wp.com/media.wnyc.org/media/resources/2020/Jun/23/NYC-Fireworks-June-1-21-2020.gif?w=840&ssl=1 "Map Shows Where NYC Fireworks Complaints Are Exploding This Summer)
+![](https://i0.wp.com/media.wnyc.org/media/resources/2020/Jun/23/NYC-Fireworks-June-1-21-2020.gif?w=840&ssl=1)
 
 Map Shows Where NYC Fireworks Complaints Are Exploding This Summer [Link](https://gothamist.com/news/map-shows-where-fireworks-complaints-are-exploding-summer)
 
