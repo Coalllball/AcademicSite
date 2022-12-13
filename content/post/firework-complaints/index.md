@@ -14,6 +14,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  filename: 311_firework.png
 ---
 # Background
 
