@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-  theme_night: minimal
+  theme_night: #minimal
   font: minimal
   font_size: L
 
@@ -65,6 +65,7 @@ features:
     theme_dark: dracula
   math:
     enable: true
+    diagrams: true
   privacy_pack:
     enable: false
   repository:

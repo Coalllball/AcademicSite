@@ -6,7 +6,7 @@ type: landing
 #this is a landing page, used as homepage, cange
 #contenet by blocks
 announcement:
-  text: 'hello world'
+  #text: 'hello world'
 sections:
   # - block: hero
   #   content:
@@ -50,6 +50,7 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
+      view: list
 #Features - skills
   # - block: features
   #   content:
@@ -138,8 +139,8 @@ sections:
   - block: experience
     id: professional
     content:
-      title: Professional Experience
-      # Date format for experience
+      title: Professional & Research Experience
+      # Date  format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       # Experiences.
@@ -159,20 +160,40 @@ sections:
             - Provide analytics on MET's growing online collection (about 500,000 objects currently).
             - Work with the Met’s Public API to understand what is working, identify areas of improvement, what data visualizations can be created, and explore ways of measuring the use and impact of the API.
             - Produce Wikidata visualizations (including knowledge graphs) that show how Met collections connect to other data sets outside the museum.
+            
+        - title: Data Literacy with, for, and by Youth
+          company: Data Analyst Graduate Assistant
+          company_url: 'https://sites.google.com/pratt.edu/data-activism-for-youth/home?authuser=0'
+          company_logo: pratt-logo
+          location: New York, NY
+          date_start: '2021-10-01'
+          date_end: ''
+          description: 
+            |2-
+              - This project is funded by National Science Foundation, led by Dr. Leanne Bowler, Dr. Mark Rosin, and Dr. Irene Lopatovska, aims to design, build and test a prototype of a data literacy activity for young people to be used in afterschool STEM programs in public libraries.
+              - Using R and Python created an automatic data-cleaning framework for qualitative transcript data generated in the research.
+              - Utilized [NLP dictionary] with LIWC-22 and analyzed emotion, sentiment factors in these data.
+              - Composed weekly research reports and data analysis related documentations for the research team.
+              - Helped with literature reviews.
+
+
+
+
 
         - title: Weeon Technology Co., Ltd.
           company: Data Analyst trainee
           company_url: 'http://weeon.cn/'
           company_logo: weeon-logo
           location: Beijing, China
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          date_start: '2018-07-01'
+          date_end: '2018-08-31'
           description: 
             |2-
             - Assisted the General Manager with database management;
             - Responsible for completing the collection and analysis of project bidding data;
             - Completed the survival analysis model using R Studio, and analyzed past similar winning bids using time series to predict current or future bids;
             - Completed the filtering and utilization of massive data and implemented data exploration, produced data package reports and composed report analysis.
+  
 
     design:
       columns: '2'
@@ -210,42 +231,43 @@ sections:
           url: ''
 
     design:
+      #view: list
       columns: '2'
-#Collection - posts
-  - block: collection
-    id: posts
-    content:
-      title: Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 0
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-          - project
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+# #Collection - posts
+#   - block: collection
+#     id: posts
+#     content:
+#       title: Posts
+#       subtitle: ''
+#       text: ''
+#       # Choose how many pages you would like to display (0 = all pages)
+#       count: 0
+#       # Filter on criteria
+#       filters:
+#         folders:
+#           - post
+#           - project
+#         author: ""
+#         category: ""
+#         tag: ""
+#         exclude_featured: false
+#         exclude_future: false
+#         exclude_past: false
+#         publication_type: ""
+#       # Choose how many pages you would like to offset by
+#       offset: 0
+#       # Page order: descending (desc) or ascending (asc) date.
+#       order: desc
+#     design:
+#       # Choose a layout view
+#       view: compact
+#       columns: '2'
 
 #Portfolio - projects
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Recent Posts
       filters:
         folders:
           - post
@@ -266,8 +288,8 @@ sections:
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
+      columns: '2'
+      view: mansonry
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
