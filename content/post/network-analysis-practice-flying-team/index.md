@@ -6,9 +6,14 @@ featured: false
 authors:
   - admin
 image:
-  filename: featured
+  filename: cover.webp
   focal_point: Smart
   preview_only: false
+  caption: "Photographer: M. McNeil, for Fox Photos. Images courtesy of the Hulton
+    Archive/ Getty Images. Colorized and researched by Benjamin Thomas, Photo
+    Source:
+    [link](https://www.vintag.es/2015/05/50-breathtaking-wwii-photos-look-like.\
+    html)"
 ---
 ## Introduction
 
