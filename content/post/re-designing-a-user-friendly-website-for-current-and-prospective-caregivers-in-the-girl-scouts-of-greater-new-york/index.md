@@ -16,8 +16,6 @@ gallery_item:
     image: 2_sheet_new.png
     caption: Adjusted Website Structure
 ---
-
-
 ![]()
 
 As a well-established organization with a rich history, the Girl Scouts of Greater New York have a wealth of information on their website. However, the complex structure of the website can make it difficult for current and prospective {{< hl >}}caregivers{{< /hl >}} to find the information they need. Our team's goal is to understand the information needs of caregivers and redesign the website to better meet those needs by reorganizing the information on the website and implementing visual design elements to make it easier for caregivers to find what they are looking for.
@@ -55,5 +53,5 @@ In addition to the content itself, users also appreciate a website that is easy 
 After understanding the needs and preferences of our users through our research, we began the process of reviewing the current structure and content of the GSGNY website. To do this, we created a spreadsheet with a sitemap of the website and analyzed the content of each page. We looked for opportunities to consolidate pages with repetitive or overlapping content and to reorganize the content in a way that would be more intuitive and user-friendly. This helped us to create a more efficient and effective website for our users.
 
 ![](sheet_old.png "The Original GS Website Structure")
-![](sheet_new.png "The Adjusted GS Website Structure")
 
+![](sheet_new.png "The Adjusted GS Website Structure")
