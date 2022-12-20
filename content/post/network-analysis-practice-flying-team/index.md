@@ -8,6 +8,7 @@ authors:
 tags: 
   - Data Visulization
   - Newworks
+summary: " "
 image:
   filename: cover.webp
   focal_point: Smart

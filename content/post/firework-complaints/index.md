@@ -2,7 +2,7 @@
 title: Fireworks Complaints Map In NYC
 subtitle: ""
 date: 2022-12-12T22:47:31-05:00
-summary: ""
+summary: " "
 draft: false
 featured: false
 authors: 

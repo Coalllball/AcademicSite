@@ -4,17 +4,11 @@ title: Re-Designing a User-Friendly Website for Current and Prospective
 date: 2022-12-20T04:41:08.128Z
 draft: false
 featured: false
+summary: "UX Case Study"
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-gallery_item:
-  - album: girlScouts-sheet
-    image: 1_sheet_old.png
-    caption: Original Website Structure
-  - album: girlScouts-sheet
-    image: 2_sheet_new.png
-    caption: Adjusted Website Structure
 ---
 As a well-established organization with a rich history, the Girl Scouts of Greater New York have a wealth of information on their website. However, the complex structure of the website can make it difficult for current and prospective {{< hl >}}caregivers{{< /hl >}} to find the information they need. Our team's goal is to understand the information needs of caregivers and redesign the website to better meet those needs by reorganizing the information on the website and implementing visual design elements to make it easier for caregivers to find what they are looking for.
 
@@ -51,9 +45,6 @@ After understanding the needs and preferences of our users through our interview
 
 ![](sheet_old.png "The Original GS Website Structure")
 ![](sheet_new.png "The Adjusted GS Website Structure")
-
-
-
 
 
 ## Restructure The Website
@@ -187,12 +178,25 @@ We had a lot of ideas for our project based on the results of user research and 
 
 ![sample-sketch](sample-sketch.jpg "Here is a sample sketch created by Becky Su from our team")
 
-After several rounds of discussion, we modified our wireframe based on the actual needs of our users and ultimately arrived at a satisfactory version. We decided to use Figma to create an interactive low-fidelity prototype for user testing, in order to further discover any issues and continue improving based on the results.
+After several rounds of discussion, we modified our wireframe based on the actual needs of our users and ultimately arrived at a satisfactory version. We decided to use {{< icon name="figma" pack="fab" >}}Figma to create an interactive low-fidelity prototype for user testing, in order to further discover any issues and continue improving based on the results.
 
-<img src="Trefoil%20Society%20-%20Desktop.jpg" caption="test"  width = "50%">
+#### User Test 
 
-<p><img src="Trefoil%20Society%20-%20Desktop.jpg" style="float: left; margin-right: 5%; margin-bottom: 1em; width: 45%"><img src="Ways to Give - Desktop.jpg" style="float: left; margin-right: 5%; margin-bottom: 1em;width: 45%"> After several rounds of discussion, we modified our wireframe based on the actual needs of our users and ultimately arrived at a satisfactory version. We decided to use Figma to create an interactive low-fidelity prototype for user testing, in order to further discover any issues and continue improving based on the results.
- </p>
+{{< spoiler text="Click to view the **Trefoil Society** LoFi Prototype" >}}
 
-After several rounds of discussion, we modified our wireframe based on the actual needs of our users and ultimately arrived at a satisfactory version. We decided to use Figma to create an interactive low-fidelity prototype for user testing, in order to further discover any issues and continue improving based on the results.
+<img src="Trefoil%20Society%20-%20Desktop.jpg" caption="Trefoil Society LoFi" width = "45%" style="float: left; margin-right: 10%; margin-bottom: 5%;">
+<img src="Trefoil Society - Mobile.jpg" caption="Trefoil Society LoFi" width = "30%" style="float: left; margin-right: 15%; margin-bottom: 5%;">
+
+{{< /spoiler >}}
+
+**User test result:**
+
+
+{{< spoiler text="Click to view the **Ways to Give** LoFi Prototype" >}}
+
+<img src="Ways to Give - Desktop.jpg" caption="Trefoil Society LoFi" width = "45%" style="float: left; margin-right: 10%; margin-bottom: 5%;">
+<img src="Ways to Give - Online.jpg" caption="Trefoil Society LoFi" width = "30%" style="float: left; margin-right: 15%; margin-bottom: 25%;">
+
+{{< /spoiler >}}
+
 

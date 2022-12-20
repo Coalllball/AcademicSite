@@ -12,6 +12,7 @@ image:
   filename: netflix_logo_rgb.png
   focal_point: Smart
   preview_only: false
+summary: " "
 ---
 # Background
 
