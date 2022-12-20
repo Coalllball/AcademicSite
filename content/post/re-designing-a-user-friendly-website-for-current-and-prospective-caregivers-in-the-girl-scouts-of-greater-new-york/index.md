@@ -214,5 +214,6 @@ Below are the sample lofi prototypes tested in Task #3 and samples of correspond
 - The card list does not fit on the screen, and the two columns of cards limit the efficiency of communicating information.
 - The font choice and size does not match between desktop and mobile versions. 
 
-We tested the lofi prototype with eight participants and found their main comments concentreated on these points: 
-1.  
+We conducted a usability test of the lofi prototype with eight participants and used their comments to establish standards for text usage, eliminate redundant content, optimize layout size for different screens, and standardize image size and design. These changes were implemented to improve the overall user experience in our High Fidelity Prototype.
+
+### 
