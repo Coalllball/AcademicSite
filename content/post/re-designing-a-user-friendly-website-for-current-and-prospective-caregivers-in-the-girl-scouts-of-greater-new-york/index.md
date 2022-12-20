@@ -154,15 +154,22 @@ The following is the revised information structure of the GSGNY website based on
 ![](sitemap4.jpg)
 {{< /spoiler >}}
 
-There are 60 pages intotal and we categortized them under 7 main sections. in order to make a working prototype to present within the time limit of one semester, we 
-
-
+There are 60 pages intotal and we have categortized them under 7 main sections. To create a working prototype for presentation that best shows what the finished website would like within the time of one semester, we selected certain pages that relevent to what our users care the most. These pages include: 
+- Homepage
+- Who We Are
+- Program Overview
+- STEM Program
+- Leadership Development Program
+- Trefoil Society
+- Ways to Give
+- Campaign for Girl HQ
+- Become a Member
 
 ## Re-Design the Website 
 
 {{< hl >}} Apply Our Findings {{< /hl >}}
 
-#### How Do Others Do it?
+### How Do Others Do it?
 
 It is effective to learn from the competitors about their strengths and weaknesses. Our team analyzed the information structures and visual elements of six extracurricular program websites that target similar audiences. We then used this information to inform our own strategies and improve our own website.
 
@@ -173,4 +180,14 @@ Below are some of the key findings that we applied in our website:
 | Make the vision clear on the home page to help people understand the values of the organization. | Avoid confusing navigation that may cause users to become lost on the website. |
 | Highlight the pages that are relevant to the user's current location. | Links or labels that do not provide any feedback indicating that they are clickable. |
 | Use a variety of font sizes and styles, but maintain consistency | Avoid minimizing program information - it is important to explain the benefits of participation to potential participants. |
+
+### First Draft - Low Fidelity Prototype User Test
+
+We had a lot of ideas for our project based on the results of user research and competitor analysis. To better present these ideas to each other and begin a brainstorming session, we created sketches to visualize our thoughts. Our goal is to create a more concise and effective informational layout that will help users find the information they need.
+
+![sample-sketch](sample-sketch.jpg "Here is a sample sketch created by Becky Su from our team")
+
+After several rounds of discussion, we modified our wireframe based on the actual needs of our users and ultimately arrived at a satisfactory version. We decided to use Figma to create an interactive low-fidelity prototype for user testing, in order to further discover any issues and continue improving based on the results.
+
+<img src="https://github.com/Coalllball/AcademicSite/blob/main/content/post/re-designing-a-user-friendly-website-for-current-and-prospective-caregivers-in-the-girl-scouts-of-greater-new-york/Trefoil%20Society%20-%20Desktop.jpg"  width="50%" height="30%">
 
