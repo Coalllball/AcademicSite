@@ -27,7 +27,6 @@ As designers, it is essential that we understand the needs and preferences of ou
 
 None of our team members had prior experience with Girl Scouts, so we decided to talk to people who knew about it, and ideally, those who were current or future caregivers. We conducted four interviews with questions about their opinion about girl scouts and extracurricular programs in general, combined with a short surveyof their background that helped us make sense about the results. 
 
-{{% callout note %}}
 Key Findings
 
 ### What Information Do Caregivers Care the Most?
@@ -41,7 +40,6 @@ When deciding whether to register their children in an extracurricular program, 
 5. **Ways to give back:** Caregivers may be interested in learning about ways they can contribute to the program or organization, such as volunteering or making donations.
 
 In addition to the content itself, users also appreciate a website that is easy to navigate and has a clear, organized layout. This makes it easier for them to find the information they are looking for and to use the website effectively.
-{{% /callout  %}}
 
 ## Restructure The Website - Making Key Information Stands Out
 
@@ -51,6 +49,5 @@ In addition to the content itself, users also appreciate a website that is easy 
 
 After understanding the needs and preferences of our users through our research, we began the process of reviewing the current structure and content of the GSGNY website. To do this, we created a spreadsheet with a sitemap of the website and analyzed the content of each page. We looked for opportunities to consolidate pages with repetitive or overlapping content and to reorganize the content in a way that would be more intuitive and user-friendly. This helped us to create a more efficient and effective website for our users.
 
-{{< gallery album="girlScouts-sheet" resize_options="250x250" >}}
 
 这是两张spreadsheets的截图，左图是original的，右图是经过我们归纳过的。我们将
