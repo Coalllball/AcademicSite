@@ -25,8 +25,9 @@ As designers, it is essential that we understand the needs and preferences of ou
 
 ### Talk to Real People
 
-None of our team members had prior experience with Girl Scouts, so we decided to talk to people who knew about it, and ideally, those who were current or future caregivers. We conducted four interviews with questions about their opinion about girl scouts and extracurricular programs in general, combined with a short surveyof their background that helped us make sense about the results. 
+None of our team members had prior experience with Girl Scouts, so we decided to talk to people who knew about it, and ideally, those who were current or future caregivers. We conducted four interviews with questions about their opinion about girl scouts and extracurricular programs in general, combined with a short surveyof their background that helped us make sense about the results.
 
+{{% callout note %}}
 Key Findings
 
 ### What Information Do Caregivers Care the Most?
@@ -40,6 +41,7 @@ When deciding whether to register their children in an extracurricular program, 
 5. **Ways to give back:** Caregivers may be interested in learning about ways they can contribute to the program or organization, such as volunteering or making donations.
 
 In addition to the content itself, users also appreciate a website that is easy to navigate and has a clear, organized layout. This makes it easier for them to find the information they are looking for and to use the website effectively.
+{{% /callout  %}}
 
 ## Restructure The Website - Making Key Information Stands Out
 
