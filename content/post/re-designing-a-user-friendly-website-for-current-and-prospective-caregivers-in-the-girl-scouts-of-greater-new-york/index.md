@@ -52,4 +52,3 @@ In addition to the content itself, users also appreciate a website that is easy 
 After understanding the needs and preferences of our users through our research, we began the process of reviewing the current structure and content of the GSGNY website. To do this, we created a spreadsheet with a sitemap of the website and analyzed the content of each page. We looked for opportunities to consolidate pages with repetitive or overlapping content and to reorganize the content in a way that would be more intuitive and user-friendly. This helped us to create a more efficient and effective website for our users.
 
 
-这是两张spreadsheets的截图，左图是original的，右图是经过我们归纳过的。我们将
