@@ -267,6 +267,14 @@ talk about the infographic design on mobile
 --->
 ![Alt text](infograph_mobile.png)
 
-
+The mobile version of the infographic was adapted from the desktop version. To keep the page clean and concise on smaller screens, I made the infographic vertical and adjusted its shape. Despite the design changes, it still effectively conveys information like the desktop version does. The only challenge in creating a responsive website is that it may require additional work to transform the infographic for different screen sizes.
 
 {{% staticref "uploads/Annotations.pdf" "newtab" %}}View the Full High Fidelity Prototype{{% /staticref %}}
+
+## Conslusion and Consideration
+
+It was a fun and 
+
+## Acknowledgement 
+
+I would like to express my gratitude to my teammates, Tess Poter, Becky Su, Esther Kim, and Bella Jiang, for their hard work and dedication to this project. Their contributions have been invaluable and have helped me to overcome many difficuilties during work and study. I am grateful to have had the opportunity to work with these talented and supportive individuals. Thank you all for your efforts and for making this experience a positive one.
