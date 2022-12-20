@@ -182,6 +182,16 @@ After several rounds of discussion, we modified our wireframe based on the actua
 
 #### User Test 
 
+To ensure consistent test results, we designed three tasks for our participants to mimic typical scenarios a caregiver might encounter while using the website. These tasks were designed to help us better understand how caregivers might use the website in real-world situations.
+
+|      | Tasks                                                        | User Story                                                   |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| #1   | Find information about the Girl Scouts of Greater New York program, and learn more about what their Leadership Development and Science, Technology, Engineering, and Math (STEM) programs entail. | Caregiver is interested in understanding how the Girl Scouts helps children learn about leadership values and STEM skills. |
+| #2   | Learn about what Girl scouts membership entails and register a child as a Member。 | Caregiver is curious about what GSGNY can offer her child and, when satisfied, wants to enroll their child in GSGNY. |
+| #3   | Learn about ways to give to the Girl Scouts of Greater New York, learn more about the Trefoil Society (a donors-only group), and make a donation to the Campaign for Girl HQ). | Caregiver is stratified with their children’s experience at the GSGNY, and want to contribute to the GSGNY. |
+
+Below are the sample lofi prototypes tested in Task #3 and samples of corresponding user test results:
+
 {{< spoiler text="Click to view the **Trefoil Society** LoFi Prototype" >}}
 
 <img src="Trefoil%20Society%20-%20Desktop.jpg" caption="Trefoil Society LoFi" width = "45%" style="float: left; margin-right: 10%; margin-bottom: 5%;">
@@ -189,8 +199,9 @@ After several rounds of discussion, we modified our wireframe based on the actua
 
 {{< /spoiler >}}
 
-**User test result:**
-
+**User test result:** 
+- The table (of benefits) is a very straght forward way to show the difference between each member group but the size is too large and cannot fit in screen, which cause extra scroll and easy to lost track. 
+- There are some redundency in the descriptions of member benefits and member impacts. 
 
 {{< spoiler text="Click to view the **Ways to Give** LoFi Prototype" >}}
 
@@ -199,4 +210,9 @@ After several rounds of discussion, we modified our wireframe based on the actua
 
 {{< /spoiler >}}
 
+**User test result:** 
+- The card list does not fit on the screen, and the two columns of cards limit the efficiency of communicating information.
+- The font choice and size does not match between desktop and mobile versions. 
 
+We tested the lofi prototype with eight participants and found their main comments concentreated on these points: 
+1.  
