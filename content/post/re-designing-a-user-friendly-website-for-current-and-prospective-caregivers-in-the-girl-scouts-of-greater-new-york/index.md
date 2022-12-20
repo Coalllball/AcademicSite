@@ -196,4 +196,3 @@ After several rounds of discussion, we modified our wireframe based on the actua
 
 After several rounds of discussion, we modified our wireframe based on the actual needs of our users and ultimately arrived at a satisfactory version. We decided to use Figma to create an interactive low-fidelity prototype for user testing, in order to further discover any issues and continue improving based on the results.
 
-{{< gallery album="girlScouts-sheet" >}}
