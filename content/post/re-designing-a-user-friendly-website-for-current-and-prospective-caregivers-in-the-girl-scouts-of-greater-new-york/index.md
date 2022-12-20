@@ -29,6 +29,15 @@ As designers, it is essential that we understand the needs and preferences of ou
 
 None of our team members had prior experience with Girl Scouts, so we decided to talk to people who knew about it, and ideally, those who were current or future caregivers. We conducted four interviews with questions about their opinion about girl scouts and extracurricular programs in general, combined with a short surveyof their background that helped us make sense about the results.
 
+### Start By Condensing Content
+
+After understanding the needs and preferences of our users through our interviews and surveys, we began the process of reviewing the current structure and content of the GSGNY website. To do this, we created a spreadsheet with a sitemap of the website and analyzed the content of each page. We looked for opportunities to consolidate pages with repetitive or overlapping content and to reorganize the content in a way that would be more intuitive and user-friendly. This helped us to create a more efficient and effective website for our users.
+
+![](sheet_old.png "The Original GS Website Structure")
+![](sheet_new.png "The Adjusted GS Website Structure")
+#### Card Sorting and Tree Testing
+
+
 {{% callout note %}}
 Key Findings
 
@@ -47,10 +56,5 @@ In addition to the content itself, users also appreciate a website that is easy 
 
 ## Restructure The Website - Making Key Information Stands Out
 
-### Start By Condensing Content
 
-After understanding the needs and preferences of our users through our research, we began the process of reviewing the current structure and content of the GSGNY website. To do this, we created a spreadsheet with a sitemap of the website and analyzed the content of each page. We looked for opportunities to consolidate pages with repetitive or overlapping content and to reorganize the content in a way that would be more intuitive and user-friendly. This helped us to create a more efficient and effective website for our users.
-
-![](sheet_old.png "The Original GS Website Structure")
-![](sheet_new.png "The Adjusted GS Website Structure")
 
