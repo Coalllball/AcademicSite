@@ -132,8 +132,23 @@ After comparing our structure to the one created by our users, we discovered sig
 			- Ways to Give
 			- Trefoil Society
 			- Fundraiser Events
-				- TCS New York City Mara
+				- TCS New York City Marathon
+              - Women of Distinction Breakfest
+              - Gold Achievement Gala
+          - Campaign for Girl HQ
+          - Juliette Gordon Low Society
+          - Supporters
+          - Donor Privacy Policy
+      - Support Troop 6000
 	- News and Events
+      - Upcoming Events
+        - Event Calendar
+        - Event List
+      - News
+      - 2023 Girl Scout Convention
+      - Virtual Programs
+      - Cookies & Cocktails
+      - COVID-19 Updates
 ```
 
 
