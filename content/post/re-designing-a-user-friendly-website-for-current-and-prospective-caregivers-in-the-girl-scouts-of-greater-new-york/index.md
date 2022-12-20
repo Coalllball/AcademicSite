@@ -29,10 +29,11 @@ As designers, it is essential that we understand the needs and preferences of ou
 None of our team members had prior experience with Girl Scouts, so we decided to talk to people who knew about it, and ideally, those who were current or future caregivers. We conducted four interviews with questions about their opinion about girl scouts and extracurricular programs in general, combined with a short survey of their information access preferences that helped us make sense about the results. 
 
 During the interviews, the participants shared their personal stories about the benefits of girl scouts or extracurricular activities for themselves or someone they knew. They highlighted several factors that they consider when choosing a program for children in their care, such as the organization's core values, the cost of participation, the location and schedule, and character-building qualities. Some participants also emphasized the importance of the program's approachability and the potential for gender stereotypes.
+
 {{% callout note %}}
 Key Findings
 
-### What Information Do Caregivers Care the Most?
+#### What Information Do Caregivers Care the Most?
 
 When deciding whether to register their children in an extracurricular program, caregivers are likely to be interested in several key aspects of the program. These can be summarized into five main categories:
 
@@ -55,7 +56,10 @@ After understanding the needs and preferences of our users through our interview
 
 
 
-## Restructure The Website - Making Key Information Stands Out
+## Restructure The Website
+
+{{< hl >}} Make Key Information Stands Out{{< /hl >}} 
+
 #### Card Sorting and Tree Testing
 
 Based on the initial condensed site structure, we wanted to test its functionality with a larger number of users. Card sorting and tree testing were effective techniques that helped us to evaluate our judgment in organizing the content and finalizing the information structure of the website. We conducted these tests with eight participants and followed each test with a brief interview to gather their thoughts on the tested structure.
@@ -64,6 +68,80 @@ The results from card sorting showed us how the users would like to condense the
 
 After comparing our structure to the one created by our users, we discovered significant discrepancies. In order to better meet the needs of our users, we carefully analyzed the results and made adjustments to our structure. We then conducted tasks based tree tests to further refine the changes.
 ### The Final Sitemap
+
+![](sitemap4.jpg)
+
+```markmap {height = "1200px"}
+- Homepage
+	- Header Navigation
+		- En Espanol
+		- Shop
+		- MyGS
+		- Contact Us
+			- Contact Form
+			- Report and Request Forms
+	- Join Us
+		- Membership Overview
+		- Become a Member
+		- Renew Membership
+		- The Girl Scout New Work
+		- Careers
+	- Who We Are
+		- About Us
+		- Our History
+		- Promise and Law
+		- Diversity and Inclusion
+		- Girl Scouts of USA
+			- The Girl Scouts Difference
+			- About Gorl Scouts
+			- Girl Scouts Research Institute
+			- Girl Scouts for All
+		- Our Leadership
+			- Council Leadership
+			- Board of Directors
+			- Staff Directory
+			- Leadership Advisory Board
+		- FAQs
+		- Annual Report and Financial Profile
+	- What Girls Do
+		- Our Program
+			- Overview
+			- Business & Entreperneurship,
+			Leadership Development,
+			STEM,
+			Outdoor Adventure
+		- Awards
+		- Scholarships
+		- Fun Patches
+		- External Programs
+	- Cookies Program
+		- About Girl Scouts Cookies
+		- Cookie Selling Tips
+		- Cookie Resources and Forms
+		- Troop Cookie Manager Manual
+		- Sales Platform
+	- Support Us
+		- Volunteer
+			- Ways to Volunteer
+			- Why Volunteer
+			- Volunteer Essentials
+			- Volunteer Training
+			- Volunteer Resources
+		- Donate
+			- Donate Now
+			- Ways to Give
+			- Trefoil Society
+			- Fundraiser Events
+				- TCS New York City Mara
+	- News and Events
+```
+
+
+
+## Re-Design the Website 
+
+{{< hl >}} Apply Our Findings {{< /hl >}}
+
 #### How Do Others Do it?
 
 It is effective to learn from the competitors about their strengths and weaknesses. Our team analyzed the information structures and visual elements of six extracurricular program websites that target similar audiences. We then used this information to inform our own strategies and improve our own website.
@@ -71,7 +149,8 @@ It is effective to learn from the competitors about their strengths and weakness
 Below are some of the key findings that we applied in our website:
 
 | What to Implement                                            | What to Avoid                                                |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| :----------------------------------------------------------- | ------------------------------------------------------------ |
 | Make the vision clear on the home page to help people understand the values of the organization. | Avoid confusing navigation that may cause users to become lost on the website. |
 | Highlight the pages that are relevant to the user's current location. | Links or labels that do not provide any feedback indicating that they are clickable. |
 | Use a variety of font sizes and styles, but maintain consistency | Avoid minimizing program information - it is important to explain the benefits of participation to potential participants. |
+
