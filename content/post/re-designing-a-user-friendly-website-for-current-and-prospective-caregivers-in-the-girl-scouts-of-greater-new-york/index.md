@@ -189,6 +189,11 @@ We had a lot of ideas for our project based on the results of user research and 
 
 After several rounds of discussion, we modified our wireframe based on the actual needs of our users and ultimately arrived at a satisfactory version. We decided to use Figma to create an interactive low-fidelity prototype for user testing, in order to further discover any issues and continue improving based on the results.
 
-<img src="Trefoil%20Society%20-%20Desktop.jpg" width = "50%">
+<img src="Trefoil%20Society%20-%20Desktop.jpg" caption="test"  width = "50%">
 
-<p><img src="Trefoil%20Society%20-%20Desktop.jpg" style="float: left; margin-right: 5%; margin-bottom: 1em; width: 40%"><img src="Ways to Give - Desktop.jpg" style="float: left; margin-right: 5%; margin-bottom: 1em;width: 40%"></p>
+<p><img src="Trefoil%20Society%20-%20Desktop.jpg" style="float: left; margin-right: 5%; margin-bottom: 1em; width: 45%"><img src="Ways to Give - Desktop.jpg" style="float: left; margin-right: 5%; margin-bottom: 1em;width: 45%"> After several rounds of discussion, we modified our wireframe based on the actual needs of our users and ultimately arrived at a satisfactory version. We decided to use Figma to create an interactive low-fidelity prototype for user testing, in order to further discover any issues and continue improving based on the results.
+ </p>
+
+After several rounds of discussion, we modified our wireframe based on the actual needs of our users and ultimately arrived at a satisfactory version. We decided to use Figma to create an interactive low-fidelity prototype for user testing, in order to further discover any issues and continue improving based on the results.
+
+{{< gallery album="girlScouts-sheet" >}}
