@@ -218,9 +218,15 @@ We conducted a usability test of the lofi prototype with eight participants and 
 
 ### Final Draft - High-Fidelity Prototype
 
-Based on the findings from the lo-fi prototype testing, we established design standards that would be applied to all pages on the website. These standards included guidelines for font choice and size (both for desktop and mobile), color schemes, the accessibility of interactive elements, and the size and spacing of images. We also referenced the [girl scouts brand guidebook](https://www.girlscoutshh.org/en/for-volunteers/BrandResources.html) to make sure our design follows their official style. 
+Based on the findings from the lo-fi prototype testing, we established design standards that would be applied to all pages on the website. These standards included guidelines for font choice and size (both for desktop and mobile), color schemes, the accessibility of interactive elements, and the size and spacing of images. We also referenced the [girl scouts brand guidebook](https://www.girlscoutshh.org/en/for-volunteers/BrandResources.html) to make sure our design follows their official style. We also created drop-down lists in the navigation header to help users navigate through pages and locate themselves. 
 
 For the detailed implementions to the layout sizing, I would use the "Trefoil Society" pages for example since I lead the redesigning of these pages. 
+
+#### Desktop
+
+<!---
+example 1
+--->
 
 {{< spoiler text="Click to view the **Trefoil Society - Desktop** HiFi Prototype" >}}
 
@@ -229,11 +235,38 @@ For the detailed implementions to the layout sizing, I would use the "Trefoil So
 
 {{< /spoiler >}}
 
+<!---
+talk about the infographic design
+--->
+##### Infographic
+
+![Alt text](infographic.png)
+
+To clearly and concisely convey the benefits of each level of trefoil membership with as few as text as possible, I created an infographic using arrows and gradient colors to show the hierarchy and impact of each membership level. This design is meant to be intuitive and accessible for all users. 
+##### Card List
+
+![Alt text](cards.png)
+
+The original table view was too large to fit on the screen, making it difficult for users to find the information they needed. After analyzing the content, I discovered that there were many overlaps in the benefits offered to different levels. Thus, I decided to summarize the benefits that are shared with other groups and present them in a card list view. This organized format allows users to quickly and easily locate the information they need.
+
+#### Mobile
+<!---
+example 2
+--->
+
 {{< spoiler text="Click to view the **Trefoil Society - Mobile** HiFi Prototype" >}}
 
 <img src="hf_Trefoil%20Society%20-%20Mobile.png" caption="Trefoil Society LoFi" width = "45%" style="float: left; margin-right: 5%; margin-bottom: 5%;">
 <img src="Trefoil%20Society%20-%20Mobile.jpg" caption="Trefoil Society LoFi" width = "45%" style="float: left; margin-right: 5%; margin-bottom: 35%;">
 
 {{< /spoiler >}}
+
+
+<!---
+talk about the infographic design on mobile
+--->
+![Alt text](infograph_mobile.png)
+
+
 
 {{% staticref "uploads/Annotations.pdf" "newtab" %}}View the Full High Fidelity Prototype{{% /staticref %}}
