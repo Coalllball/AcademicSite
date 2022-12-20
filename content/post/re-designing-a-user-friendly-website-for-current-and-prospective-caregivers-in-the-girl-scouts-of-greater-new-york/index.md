@@ -217,3 +217,6 @@ Below are the sample lofi prototypes tested in Task #3 and samples of correspond
 We conducted a usability test of the lofi prototype with eight participants and used their comments to establish standards for text usage, eliminate redundant content, optimize layout size for different screens, and standardize image size and design. These changes were implemented to improve the overall user experience in our High Fidelity Prototype.
 
 ### 
+
+
+{{% staticref "uploads/Annotations.pdf" "newtab" %}}View the Full High Fidelity Prototype{{% /staticref %}}
