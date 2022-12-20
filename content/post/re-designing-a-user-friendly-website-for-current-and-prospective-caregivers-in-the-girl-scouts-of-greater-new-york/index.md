@@ -68,8 +68,10 @@ The results from card sorting showed us how the users would like to condense the
 
 After comparing our structure to the one created by our users, we discovered significant discrepancies. In order to better meet the needs of our users, we carefully analyzed the results and made adjustments to our structure. We then conducted tasks based tree tests to further refine the changes.
 ### The Final Sitemap
+{{< spoiler text="Click to view the spoiler" >}}
 
 ![](sitemap4.jpg)
+{{< /spoiler >}}
 
 ```markmap {height = "1200px"}
 - Homepage
