@@ -68,10 +68,8 @@ The results from card sorting showed us how the users would like to condense the
 
 After comparing our structure to the one created by our users, we discovered significant discrepancies. In order to better meet the needs of our users, we carefully analyzed the results and made adjustments to our structure. We then conducted tasks based tree tests to further refine the changes.
 ### The Final Sitemap
-{{< spoiler text="Click to view the spoiler" >}}
 
-![](sitemap4.jpg)
-{{< /spoiler >}}
+The following is the revised information structure of the GSGNY website based on the results of our user research. Please note that the original image may not be clear due to limitations on my personal website. For a clearer view, you can access this interactive mindmap instead.
 
 ```markmap {height = "1200px"}
 - Homepage
@@ -152,6 +150,11 @@ After comparing our structure to the one created by our users, we discovered sig
       - Cookies & Cocktails
       - COVID-19 Updates
 ```
+{{< spoiler text="Click to view the sitemap image" >}}
+![](sitemap4.jpg)
+{{< /spoiler >}}
+
+There are 60 pages intotal and we categortized them under 7 main sections. in order to make a working prototype to present within the time limit of one semester, we 
 
 
 
