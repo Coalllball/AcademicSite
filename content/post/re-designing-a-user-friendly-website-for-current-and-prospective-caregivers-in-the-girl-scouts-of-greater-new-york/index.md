@@ -216,7 +216,24 @@ Below are the sample lofi prototypes tested in Task #3 and samples of correspond
 
 We conducted a usability test of the lofi prototype with eight participants and used their comments to establish standards for text usage, eliminate redundant content, optimize layout size for different screens, and standardize image size and design. These changes were implemented to improve the overall user experience in our High Fidelity Prototype.
 
-### 
+### Final Draft - High-Fidelity Prototype
 
+Based on the findings from the lo-fi prototype testing, we established design standards that would be applied to all pages on the website. These standards included guidelines for font choice and size (both for desktop and mobile), color schemes, the accessibility of interactive elements, and the size and spacing of images. We also referenced the [girl scouts brand guidebook](https://www.girlscoutshh.org/en/for-volunteers/BrandResources.html) to make sure our design follows their official style. 
+
+For the detailed implementions to the layout sizing, I would use the "Trefoil Society" pages for example since I lead the redesigning of these pages. 
+
+{{< spoiler text="Click to view the **Trefoil Society - Desktop** HiFi Prototype" >}}
+
+<img src="hf_Trefoil%20Society%20-%20Desktop.png" caption="Trefoil Society LoFi" width = "45%" style="float: left; margin-right: 5%; margin-bottom: 5%;">
+<img src="Trefoil%20Society%20-%20Desktop.jpg" caption="Trefoil Society LoFi" width = "45%" style="float: left; margin-right: 5%; margin-bottom: 5%;">
+
+{{< /spoiler >}}
+
+{{< spoiler text="Click to view the **Trefoil Society - Mobile** HiFi Prototype" >}}
+
+<img src="hf_Trefoil%20Society%20-%20Mobile.png" caption="Trefoil Society LoFi" width = "45%" style="float: left; margin-right: 5%; margin-bottom: 5%;">
+<img src="Trefoil%20Society%20-%20Mobile.jpg" caption="Trefoil Society LoFi" width = "45%" style="float: left; margin-right: 5%; margin-bottom: 35%;">
+
+{{< /spoiler >}}
 
 {{% staticref "uploads/Annotations.pdf" "newtab" %}}View the Full High Fidelity Prototype{{% /staticref %}}
