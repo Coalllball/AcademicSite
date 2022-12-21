@@ -285,4 +285,4 @@ However, the improvement of usibility is an ongoing process. The high fidelity p
 
 ## Acknowledgement 
 
-I would like to express my gratitude to my teammates, Tess Poter, Becky Su, Esther Kim, and Bella Jiang, for their hard work and dedication to this project. Their contributions have been invaluable and have helped me to overcome many difficuilties during work and study. I am grateful to have had the opportunity to work with these talented and supportive individuals. Thank you all for your efforts and for making this experience a positive one.
+I would like to express my gratitude to my teammates, Tess Porter, Becky Su, Esther Kim, and Bella Jiang, for their hard work and dedication to this project. Their contributions have been invaluable and have helped me to overcome many difficuilties during work and study. I am grateful to have had the opportunity to work with these talented and supportive individuals. Thank you all for your efforts and for making this experience a positive one.
