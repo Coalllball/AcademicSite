@@ -269,11 +269,19 @@ talk about the infographic design on mobile
 
 The mobile version of the infographic was adapted from the desktop version. To keep the page clean and concise on smaller screens, I made the infographic vertical and adjusted its shape. Despite the design changes, it still effectively conveys information like the desktop version does. The only challenge in creating a responsive website is that it may require additional work to transform the infographic for different screen sizes.
 
-{{% staticref "uploads/Annotations.pdf" "newtab" %}}View the Full High Fidelity Prototype{{% /staticref %}}
+### Showcase
 
-## Conslusion and Consideration
+Link to the Full Interactive High Fidelity Prototype: [Desktop](https://www.figma.com/proto/hKrQuFCV6r31xkmGTgazkA/Hifi-Prototypes?node-id=371%3A4819&scaling=min-zoom&page-id=371%3A1556&starting-point-node-id=371%3A4819&show-proto-sidebar=1) | [Mobile](https://www.figma.com/proto/hKrQuFCV6r31xkmGTgazkA/Hifi-Prototypes?node-id=371%3A5328&scaling=min-zoom&page-id=371%3A1556&starting-point-node-id=371%3A5328&show-proto-sidebar=1)
 
-It was a fun and 
+{{% staticref "uploads/Annotations.pdf" "newtab" %}}Download the Annotated High Fidelity Prototype{{% /staticref %}}
+
+## Conclusion and Consideration
+
+Our final product design is generally successful in achieving our goal of improving the website's information structure and visual elements to enhance usability. 
+
+However, the improvement of usibility is an ongoing process. The high fidelity prototype has not yet been user tested, but we have received valuable feedback from our peers regarding some weaknesses that we can work to improve. One issue that was pointed out is that our navigation header lacks complete feedbacks. The green background is used to show the current page that the user is viewing, but if the user clicks on a different tab to view its structure, there is no design element to indicate which tab the user has selected. This has the potential to confuse users and may require extra effort to navigate. We will make sure to address this issue in the future.
+
+![Alt text](nav-example.png)
 
 ## Acknowledgement 
 
