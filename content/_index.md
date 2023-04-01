@@ -6,7 +6,7 @@ type: landing
 #this is a landing page, used as homepage, cange
 #contenet by blocks
 announcement:
-  #text: 'hello world'
+  text: 'hello world'
 sections:
   # - block: hero
   #   content:
@@ -47,35 +47,35 @@ sections:
       text:
     design: 
       background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
+        gradient_end: '#e76f51'
+        gradient_start: '#264653'
         text_color_light: true
       view: list
 #Features - skills
-  # - block: features
-  #   content:
-  #     title: Skills
-  #     items:
-  #       - name: R
-  #         description: Advance
-  #         icon: r-project
-  #         icon_pack: fab
-  #       - name: Python
-  #         description: Advance
-  #         icon: python
-  #         icon_pack: fab
-  #       - name: Python
-  #         description: Advance
-  #         icon: python
-  #         icon_pack: fab
-  #       - name: Statistics
-  #         description: 100%
-  #         icon: chart-line
-  #         icon_pack: fas
-  #       - name: Photography
-  #         description: 10%
-  #         icon: camera-retro
-  #         icon_pack: fas
+  - block: features
+    content:
+      title: Skills
+      items:
+        - name: R
+          description: Advance
+          icon: r-project
+          icon_pack: fab
+        - name: Python
+          description: Advance
+          icon: python
+          icon_pack: fab
+        - name: Python
+          description: Advance
+          icon: python
+          icon_pack: fab
+        - name: Statistics
+          description: 100%
+          icon: chart-line
+          icon_pack: fas
+        - name: Photography
+          description: 10%
+          icon: camera-retro
+          icon_pack: fas
 
 #Experience - education
   - block: experience
@@ -265,6 +265,7 @@ sections:
     design:
       #view: list
       columns: '2'
+      
 # #Collection - posts
 #   - block: collection
 #     id: posts
@@ -299,7 +300,8 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Recent Posts
+      title: Projects
+      subtitle: Recent Projects and Portfolio
       filters:
         folders:
           - post
