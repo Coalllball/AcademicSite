@@ -11,6 +11,7 @@ tags:
   - GIS
   - Map
   - Data Cleaning
+  - Portfolio
 image:
   filename: featured
   focal_point: Smart
