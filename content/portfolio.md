@@ -14,5 +14,7 @@ header:
   image: ""
 ---
 
+## [A Glance at Netflix’s Database]({{< ref "post/a-glance-at-netflix’s-database/index.md" >}}) 
 
-sample text
+[![netflix](/netflix_logo_rgb.png "Click the thumbnail to check the detail")]({{< ref "post/a-glance-at-netflix’s-database/index.md" >}}) 
+
