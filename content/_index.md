@@ -6,7 +6,7 @@ type: landing
 #this is a landing page, used as homepage, cange
 #contenet by blocks
 announcement:
-  text: '<div style="text-shadow: none;"><a class="github-button" href="https://jiachengchen.netlify.app/#projects" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Check My Graduating Portfolio For Pratt MSDAV Program!</a></div>'
+  text: '<div style="text-shadow: none;"><a class="github-button" href="https://jiachengchen.netlify.app/portfolio" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Check My Graduating Portfolio For Pratt MSDAV Program!</a></div>'
 sections:
   # - block: hero
   #   content:
