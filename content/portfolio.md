@@ -17,6 +17,7 @@ header:
 toc: true
 ---
 
+
 # <font> <center>[Civic Aircraft Traffic Routes Above Manhattan]({{< ref "post/civic-aircraft-traffic-routes-above-manhattan/index.md" >}}) </center></font>
 
 [![NYChelicopter](/nycHelicopter.png "Click the thumbnail to check the detail")]({{< ref "post/civic-aircraft-traffic-routes-above-manhattan/index.md" >}}) 
@@ -24,7 +25,6 @@ toc: true
 My friend Ziqi Wang and I have collaborated on this project, inspired by her internship experience at BetaNYC where she was assigned to build a dashboard displaying the distribution of helicopters in the air over Manhattan, but the project was left unfinished due to technical issues. We aimed to expand the scope and content of the project using Python for data collection and cleaning, gathering data from the OpenSky API on helicopter routes. Using ArcGIS, we created a 3D map that highlights the impact of helicopter noise on the city's residents and identifies the areas that are most affected by it. Our goal is to raise awareness about the issue and make a practical impact with this exercise.
 
 ---
-
 # <center>[Living Affordably]({{< ref "post/living-affordably/index.md" >}}) </center>
 
 
@@ -36,7 +36,6 @@ Despite this, the latest affordable housing plan launched in 2014 aims to provid
 
 ---
 
-
 # <center> [A Glance at Netflix’s Database]({{< ref "post/a-glance-at-netflix’s-database/index.md" >}}) </center>
 
 [![netflix](/netflix_logo_rgb.png "Click the thumbnail to check the detail")]({{< ref "post/a-glance-at-netflix’s-database/index.md" >}}) 
@@ -45,6 +44,20 @@ In this project, I took a brief look at Netflix's database and how it was struct
 
 ---
 
+# <center> [Challenges of User Personal Information Security]({{< ref "post/challenges-of-user-personal-information-security/index.md" >}}) </center>
+
+[![info](/info.png "Click the thumbnail to check the detail")]({{< ref "post/challenges-of-user-personal-information-security/index.md" >}}) 
+
+Nowadays, the flourishing of Internet technology and its development have led to an explosion of data. Big Data has been closely integrated with the social activities of the general public, which in part raises the threat to personal privacy. It is not novel that personal privacy information is traded as a commodity in the market. This paper examines deficiencies of the current centralized information exchange model, and focuses on analyzing the user agreements provided by Internet service companies to interpret their influence on users' information behavior. The paper also presents a brief overview of the current state of national legislation on privacy protection and the potential solutions considered by academics. The paper argues that, firstly, the Internet security environment is further degraded by the fact that Internet service providers accumulate too much users' private data under the existing information exchange model. Secondly, user agreements have the intention to force users to avoid information. Ultimately, legislation and regulation should be adapted to the actual situation of users' information needs in order to guide companies to raise users' awareness of their rights.
+
+---
+
+# <center>VR as ...</center>
+
+<embed src="/vras.pdf" type="application/pdf" width="100%" height="500px" />
+
+
+---
 
 # <center>[Re-Designing a User-Friendly Website for the Girl Scouts]({{< ref "post/re-designing-a-user-friendly-website-for-current-and-prospective-caregivers-in-the-girl-scouts-of-greater-new-york/index.md" >}})</center>
 
@@ -53,15 +66,6 @@ In this project, I took a brief look at Netflix's database and how it was struct
 This project was conducted with my teammates from Information Architecture class. We focused on improving the site's accessibility, navigation, and overall user experience for both current and prospective caregivers. Our team conducted user research and incorporated feedback from focus groups to create a design that met the needs of the organization's target audience. We also implemented a new content management system to streamline the site's maintenance and improve its scalability. Ultimately, our redesign successfully addressed the organization's needs and we believe it will provid a positive experience for its users.
 
 ---
-
-
-
-
-# <center> </center>
-
-
-
-
 
 
 

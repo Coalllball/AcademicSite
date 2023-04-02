@@ -153,8 +153,20 @@ At last, I created a series of treemaps to visualize the composition of affordab
 
 The original size plots can be found with this [link](https://drive.google.com/drive/folders/1yNzCmm6TbMsnYTU6AbhmUIdRRkV0Vx-F?usp=sharing).
 
-{{< gallery album="living-affordably" >}}
+\
+\
+\
+\
 
+{{< gallery album="living-affordably" resize_options="12001x2501">}}
+
+\
+\
+\
+\
+\
+\
+\
 \
 From this series of diagrams, we can see that complaints about Heat and Unsanitary Conditions are overwhelmingly common, which aroused my curiosity. I wanted to get a deeper understanding of the causes of these problems, but unfortunately, the complaint dataset I found did not indicate which building the problem occurred in, so I could only speculate on the causes to the best of my ability.
 
