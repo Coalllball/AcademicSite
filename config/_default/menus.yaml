@@ -23,6 +23,9 @@ main:
   # - name: Publications
   #   url: '#featured'
   #   weight: 50
+  - name: Portfolio
+    url: 'portforlio/'
+    weight: 40
 
   - name: Contact
     url: '#contact'
