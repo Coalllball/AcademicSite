@@ -19,17 +19,17 @@ image:
 ---
 ## Introduction
 
-This project is a collaboretion with my friend Ziqi Wang, and inspired with her experience during her intership at BetaNYC during summer. She were required to build a dashboard to demostrate the distribution of helicopters in air of Manhattan. The project was not finished due to technical difficulties and I decided to join and finish it. 
+My friend Ziqi Wang and I have collaborated on a project that was inspired by her internship experience at BetaNYC during the summer. As part of her internship, she was tasked with creating a dashboard to showcase the distribution of helicopters in the air over Manhattan. Unfortunately, the project was not completed due to technical issues. However, I decided to join forces with Ziqi to expand the scope and content of the project. Our goal is to make a practical impact with this initiative and raise awareness about the aerial noise in the city.
 
-## Data Processing
+To achieve our project goals, we utilized several tools and processes. Python was our go-to language for data collection and cleaning, which was a major undertaking. We gathered data on helicopter routes and their corresponding noise levels from the OpenSky API. 
 
-### Data Sources
+Once we had cleaned and organized the data, we used ArcGIS to create a 3D map that showcases the helicopter routes over popular places in NYC. This map helps users visualize the impact of helicopter noise on the city's residents and highlights areas that are most affected by it.
 
-### Data Cleaning
+## Data Cleaning
+
+
 
 ## Visualization
-
-### Tools
 
 ##### ArcGIS
 
