@@ -29,7 +29,7 @@ My friend Ziqi Wang and I have collaborated on a project that was inspired by he
 
 ## Data Processing
 
-To gather the necessary data, we used the OpenSky API to request GPS tracking data for helicopters. The API provided location data every 10 seconds with a unique identifier number called "Icao24." We narrowed down the time scale to July 1, 2019, to improve response time.
+To gather the necessary data, we used the OpenSky API to request GPS tracking data for helicopters. The API provided location data every 4 seconds with a unique identifier number called "Icao24." We narrowed down the time scale to July 1, 2019, to improve response time.
 
 After gathering the raw data, we cleaned the dataset using Python. Since the raw dataset didn't show independent trips, we created a function that checked the time gap between two entries for the same "Icao24." If the gap was greater than 60 seconds, we considered it a new trip. We then grouped the data entries by "Icao24" and indexed the groups of data from 0.
 
