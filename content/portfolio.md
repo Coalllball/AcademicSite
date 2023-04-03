@@ -52,7 +52,7 @@ Nowadays, the flourishing of Internet technology and its development have led to
 
 ---
 
-# <center><a href="[url](https://drive.google.com/file/d/1ok0yvvXC0wHaiTOMk8tlRtuodA9mx0DE/view?usp=sharing)">VR as ...</a></center>
+# <center><a href="https://drive.google.com/file/d/1ok0yvvXC0wHaiTOMk8tlRtuodA9mx0DE/view?usp=sharing">VR as ...</a></center>
 
 <embed src="/vras.pdf" type="application/pdf" width="100%" height="500px" />
 
