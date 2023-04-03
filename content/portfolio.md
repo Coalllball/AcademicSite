@@ -52,10 +52,20 @@ Nowadays, the flourishing of Internet technology and its development have led to
 
 ---
 
-# <center>VR as ...</center>
+# <center><a href="[url](https://drive.google.com/file/d/1ok0yvvXC0wHaiTOMk8tlRtuodA9mx0DE/view?usp=sharing)">VR as ...</a></center>
 
 <embed src="/vras.pdf" type="application/pdf" width="100%" height="500px" />
 
+&nbsp;
+
+I was part of a team creating a website to explore the multifaceted uses of VR technology. Each of us chose 1-2 topics related to VR and developed content for a standalone page. We aimed to showcase VR's potential in various areas, including arts, education, and space exploration. The team consisted of my friends who are also in DAV program, Ziqi, Sara, and Tk.
+
+
+---
+
+# <center>Database Solution for Indie Game Studio</center>
+
+Our team designed a database for an hypothetical indie game studio to centralize business operational data and solve challenges faced by their marketing team. We incorporated client lists, marketing project lists, game release and sales data, and supply chain data to ensure timely and reliable information for managing client relationships and projects. Our database also includes financial data to prevent budget overreach and guide future marketing projects. The solution ensures data security, enhances data quality, and reduces redundancies and inconsistencies.
 
 ---
 
