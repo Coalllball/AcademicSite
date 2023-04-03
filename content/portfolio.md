@@ -24,6 +24,8 @@ toc: true
 
 My friend Ziqi Wang and I have collaborated on this project, inspired by her internship experience at BetaNYC where she was assigned to build a dashboard displaying the distribution of helicopters in the air over Manhattan, but the project was left unfinished due to technical issues. We aimed to expand the scope and content of the project using Python for data collection and cleaning, gathering data from the OpenSky API on helicopter routes. Using ArcGIS, we created a 3D map that highlights the impact of helicopter noise on the city's residents and identifies the areas that are most affected by it. Our goal is to raise awareness about the issue and make a practical impact with this exercise.
 
+{{< cta cta_text="Check on Github" cta_link="https://github.com/wazaqa-wah/ArcGIS_Helicopter" >}}
+
 ---
 # <center>[Living Affordably]({{< ref "post/living-affordably/index.md" >}}) </center>
 
@@ -63,7 +65,9 @@ I was part of a team creating a website to explore the multifaceted uses of VR t
 
 ---
 
-# <center>Database Solution for Indie Game Studio</center>
+# <center>[Database Solution for Indie Game Studio]({{< ref "post/database-design-indiegame/index.md" >}})</center>
+
+[![indiegame](/erd.png "Click the thumbnail to check the detail")]({{< ref "post/database-design-indiegame/index.md" >}}) 
 
 Our team designed a database for an hypothetical indie game studio to centralize business operational data and solve challenges faced by their marketing team. We incorporated client lists, marketing project lists, game release and sales data, and supply chain data to ensure timely and reliable information for managing client relationships and projects. Our database also includes financial data to prevent budget overreach and guide future marketing projects. The solution ensures data security, enhances data quality, and reduces redundancies and inconsistencies.
 
