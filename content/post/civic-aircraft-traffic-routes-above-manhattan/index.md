@@ -13,7 +13,7 @@ tags:
   - Data Cleaning
   - Portfolio
 image:
-  filename: featured
+  filename: nycHelicopter.png
   focal_point: Smart
   preview_only: false
 ---
