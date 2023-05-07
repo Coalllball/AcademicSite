@@ -68,7 +68,7 @@ To address these key issues, we come up with more detailed findings and recommen
 
 {{% callout note %}} 
 
-#### 001 Content Structure
+### 001 Content Structure
 
 ##### Individual pages
 
@@ -91,16 +91,78 @@ To address these key issues, we come up with more detailed findings and recommen
 
 ![solution1](./solution1.jpg "Solutions for individual pages")
 
+The website's various pages suffer from a lack of content hierarchy and are text heavy, making it difficult for users to quickly identify important information. In addition, two pages covered the same topic, which added to the confusion. To address these issues, we recommend creating an "Book an Appointment" button for easy access and unifying the "Resilience," "Health," and "Happiness" categories under one parent page to simplify content organization and improve the user experience.
+
 ![solution3](solution3.jpg "Solutions for across 3 pages")
 
 
+The problem with all three pages was that the information was disorganized and the category labels were vague, making it difficult for users to find the specific details they were looking for. To solve this problem, we recommend creating a header page that displays all the categories in a clear and organized manner, effectively presenting the entire information structure. This approach will help users to better understand the layout of the site and find the information they need more efficiently.
+
+---
+
+{{% callout note %}}
+### 002 Homepage Navigation
+
+ **Lack of direct navigation from homepage**
+
+  > “I think Health and Wellness information is in Resources?”
+
+Users have difficulty finding the "Health and Wellness" section when navigating from the home page because it is not easily identified by the labels in the header navigation of the site.
+
+{{% /callout%}}
+
+![problem2](problem2.jpg " Many users went to wrong labels to find Health and Wellness")
+
+**Solutions**
+
+![solution2](solution2.jpg "By adding a new label clearly identifies Health and Wellness, users can easily find the section.")
+
+To address this issue, we suggest adding a new label that clearly identifies the "Health & Wellness" section so that users can easily find it. This new label would work in conjunction with the earlier mentioned head page to provide a more coherent and user-friendly navigation experience for those seeking health and wellness information.
+
+---
+
+{{% callout note %}}
+### 003 Side Navigation
+
+**Lack of visual hierarchy in side navigation**
+
+> “I don’t want to see so many links on left side when I’m on the Counseling Center page.”
+
+Users are overwhelmed by the number of links in the side navigation bar, which makes it difficult for them to find the information they need.
+
+{{% /callout%}}
 
 
-#### 002 Homepage Navigation
+![problem3](problem3.jpg "The side navigation bar is over complicated and lack of clear visual hierarchy.")
 
-- **Inconsistent Navigation**
+**Solutions**
 
-  > *“I thought Student Life is for residential information at Pratt”*
+![solution4](solution4.jpg "Displaying only the relevant categories within 'The Counseling Center' can significantly increase visibility")
 
-#### 003 Side Navigation
+To address this issue, we recommend only displaying relevant categories within the "Consulting Center" to improve readability. This simplifies the navigation process and allows users to focus on the essential content. In addition, we can further improve accessibility and simplify the process for users when trying to schedule an appointment for mental health services by creating an "Make an Appointment" button.
+
+## Conclusion
+
+In conclusion, our team gained valuable experience during the UX project for Pratt Institute's Health and Wellness webpage. Our testing and analysis revealed several key usability issues, including a lack of content hierarchy, navigation issues, and a cluttered side navigation bar. Through our competitive analysis, we identified best practices and potential areas for improvement. Mainly，we recommended creating a head page unifying similar contents under one parent page, adding new navigation label for easier navigation, and simplifying the side navigation bar to improve site usability.
+
+We presented our findings and recommendations to our clients on May 3rd, 2023. They were very pleased with our findings and found them helpful in improving the usability of their website. 
+
+The project lasted approximately eight weeks, during which time we had to meet several milestones, including drafting interview protocols, conducting interviews, and presenting our findings and recommendations to the client. The team faced several challenges during the project, such as recruiting participants, and shifting the project scope. However, we were able to overcome these challenges and complete the project successfully. I was honored to work with my team members, **Sehyun Jeon, Vi Kobal, Itzamna Huerta, and Nehal Sharma** on this project. We all learned a lot from the adventure.
+
+## Considerations for Future Work
+
+Although our team was not able to test other user groups due to time constraints, we did gather valuable insights from our interviewees about multilingual Support. Eight of the ten participants were non native English speakers and expressed interest in the possibility of offering multilingual options on the Pratt Institute website. 
+
+Students' mental health issues are a complex topic that requires the attention of multiple parties, including their parents and college faculty and staff. Future work could include a more in-depth study of multilingual support and its impact on the user experience of other user groups.
+
+## Appendix
+
+### Presentation
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT230qFBgngks7WJLhgDKA28hTRv6wbYrs_os79sNTov6R1JKeKa9nCCU5gX6F3rSUaEVLAqz50NCUQ/embed?start=true&loop=true&delayms=1000" frameborder="0" width="100%" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+### User Testing Protocol
+
+{{< gdocs src="https://docs.google.com/document/d/e/2PACX-1vR8lxP6fYuFqOgaUSPMy-YQVcYJbc0cIcGnk3jX6BJZ5p_Nx9zMRvuUHd87SeDx8t87xzHmG6RK099W/pub?embedded=true" >}}
 
