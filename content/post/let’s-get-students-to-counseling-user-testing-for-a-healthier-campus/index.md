@@ -17,7 +17,8 @@ summary: Investigated Pratt Institute's website usability, conducted user testin
 
 As a member of a team of five student researchers, I'm excited to share our experience in a UX project to improve the usability of the Pratt Institute website! Our client, Pratt Institute, is a prestigious arts college located in Brooklyn, New York. We aimed to improve the user experience of students accessing critical information on the Institute's Health Services, Counseling Center, and Resilience, Health and Wellness web pages. This article will describe the goals and scope of the project, our methodology, the process we followed, the issues we identified, our recommendations, and the conclusions of the project.
 
-{{< toc >}}
+<!-- {{< toc >}} -->
+
 ## Goals and Scope
 
 Pratt Institute approached our team to identify usability issues with their health and wellness web pages and to provide recommendations to enhance the overall user experience. Pratt Institute is currently working to become a JED Campus, a program designed by the Jed Foundation to guide the school's efforts in existing student mental health, substance use, and suicide prevention through comprehensive systems, program, and policy development. Therefore, it was critical to test the Pratt website to ensure that students and other users could easily find these resources. The pages we focused on included the Counseling Center, Health and Safety, and Resilience, Health and Wellness pages. Initially, the scope of the project included students, teachers, and parents, and assessed whether multilingual support would be beneficial for non-native English speakers. However, due to time constraints, we narrowed our target group to undergraduate students.
@@ -37,30 +38,6 @@ To quickly reveal usability issues with the web pages, we employed Moderated Use
 We also conducted a competitive analysis comparing Pratt Institute with other universities' Health Services related pages. We selected other art schools such as Rhode Island School of Design (RISD), School of Visual Arts (SVA), Parsons School of Design, and universities located in New York City, namely Barnard College and New York University. This analysis allowed us to identify best practices and potential areas for improvement.
 
 ## Process
-```mermaid
-
-%%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-      'primaryColor': '#BB2528',
-      'primaryTextColor': '#fff',
-      'primaryBorderColor': '#7C0000',
-      'lineColor': '#F8B229',
-      'secondaryColor': '#006100',
-      'tertiaryColor': '#fff'
-    }
-  }
-}%%
-
-gantt
-  dateFormat  YYYY-MM-DD
-  section Section
-  Kick-off meeting with the clients   :a1, 2023-03-22, 25d
-  Another task     :after a1  , 20d
-  Task in sec      :2023-05-04  , 12d
-  another task      : 24d
-```
 
 ### Participant Recruitment
 
@@ -75,21 +52,23 @@ Following user testing, we conducted interviews with participants to learn more 
 ### Data Analysis
 
 We used the RICE Scoring Model to prioritize the issues we found and also analyzed the transcripts of the interview participants to understand what was frustrating them. We then considered the competitor sites' strengths. These analyses helped us to develop a series of recommendations to improve the usability of the site.
+
+![Alt text](data%20result.jpg)
+
 ## Problems Identified and Recommendations
 
 Through our user testing and interviews, we identified several key problems in these three aspects: 
 
-1. Content Structure
-2. Homepage Navigation
-3. Side Navigation
+1. **Content Structure**
+2. **Homepage Navigation**
+3. **Side Navigation**
 
 To address these key issues, we come up with more detailed findings and recommendations.
 
-#### 001 Content Structure
-
-![Alt text](quote_where%20important%20information%20is.jpg)
 
 {{% callout note %}} 
+
+#### 001 Content Structure
 
 ##### Individual pages
 
@@ -103,11 +82,8 @@ To address these key issues, we come up with more detailed findings and recommen
      - Each page does not have concise categorical labels.
      - Information is scattered on each page which confuses users. 
      - Users get confused and do not know where to go to access specific information.
+
 {{% /callout%}}
-
-
-
-
 
 ![problem1](./problem1.jpg "Problems 1.1 & 1.2 in individual pages")
 
@@ -115,7 +91,7 @@ To address these key issues, we come up with more detailed findings and recommen
 
 ![solution1](./solution1.jpg "Solutions for individual pages")
 
-
+![solution3](solution3.jpg "Solutions for across 3 pages")
 
 
 
