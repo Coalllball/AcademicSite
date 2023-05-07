@@ -1,5 +1,5 @@
 ---
-title: " Let’s get students to Counseling!: User Testing for a Healthier Campus"
+title: " Let’s get students to Counseling!"
 subtitle: A UX Case Study on Pratt Institute's Website Improvement Project
 date: 2023-05-07T17:54:26.207Z
 draft: false
