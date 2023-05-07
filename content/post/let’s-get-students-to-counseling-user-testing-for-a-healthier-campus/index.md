@@ -166,3 +166,8 @@ Students' mental health issues are a complex topic that requires the attention o
 
 {{< gdocs src="https://docs.google.com/document/d/e/2PACX-1vR8lxP6fYuFqOgaUSPMy-YQVcYJbc0cIcGnk3jX6BJZ5p_Nx9zMRvuUHd87SeDx8t87xzHmG6RK099W/pub?embedded=true" >}}
 
+### Meet the group ;)
+
+![group](ourgroup.jpg "Our group during discussion, from left to right: Nehal Sharma, Itzamna Huerta, and Sehyun Jeon. Vi Kobal and me were behind the camera😊.")
+
+[A mindmap of this article](mindmap.html)
