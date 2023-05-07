@@ -55,6 +55,7 @@ We used the RICE Scoring Model to prioritize the issues we found and also analyz
 
 ![Alt text](data%20result.jpg)
 
+---
 ## Problems Identified and Recommendations
 
 Through our user testing and interviews, we identified several key problems in these three aspects: 
@@ -65,6 +66,7 @@ Through our user testing and interviews, we identified several key problems in t
 
 To address these key issues, we come up with more detailed findings and recommendations.
 
+---
 
 {{% callout note %}} 
 
@@ -141,6 +143,7 @@ Users are overwhelmed by the number of links in the side navigation bar, which m
 
 To address this issue, we recommend only displaying relevant categories within the "Consulting Center" to improve readability. This simplifies the navigation process and allows users to focus on the essential content. In addition, we can further improve accessibility and simplify the process for users when trying to schedule an appointment for mental health services by creating an "Make an Appointment" button.
 
+---
 ## Conclusion
 
 In conclusion, our team gained valuable experience during the UX project for Pratt Institute's Health and Wellness webpage. Our testing and analysis revealed several key usability issues, including a lack of content hierarchy, navigation issues, and a cluttered side navigation bar. Through our competitive analysis, we identified best practices and potential areas for improvement. Mainly，we recommended creating a head page unifying similar contents under one parent page, adding new navigation label for easier navigation, and simplifying the side navigation bar to improve site usability.
