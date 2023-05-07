@@ -66,14 +66,27 @@ To address these key issues, we come up with more detailed findings and recommen
 
 #### 001 Content Structure
 
+##### Individual pages
+
 1. Lack of *Content Hierarchy* & *Text Heavy*
 
 2. There are 2 pages for the same topic
 
-![problem1](./problem1.jpg)
+##### Across 3 pages
+  
+3. Information scattered across the 3 pages
+
+
+![problem1](./problem1.jpg "Problems in individual pages")
 
 **Solutions**
 
-![solution1](./solution1.jpg)
+![solution1](./solution1.jpg "Solutions for individual pages")
 
-#### 002 
+#### 002 Homepage Navigation
+
+- **Inconsistent Navigation**
+
+  > *“I thought Student Life is for residential information at Pratt”*
+
+#### 003 Side Navigation
