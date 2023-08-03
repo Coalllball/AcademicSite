@@ -19,4 +19,6 @@ image:
   focal_point: Smart
   preview_only: true
 ---
+<center>{{< cta cta_text="Check on ArcG﻿IS StoryMap for Better Experience" cta_link="https://storymaps.arcgis.com/stories/fa7812bc413c4206ae093604137cd4ca">}}</center>
+
 <iframe src="https://storymaps.arcgis.com/stories/fa7812bc413c4206ae093604137cd4ca" width="100%" height="1500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
