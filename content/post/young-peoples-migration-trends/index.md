@@ -17,6 +17,6 @@ featured: false
 image:
   filename: theo-dorp-4_tysmnml60-unsplash-1536x1024.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 <iframe src="https://storymaps.arcgis.com/stories/fa7812bc413c4206ae093604137cd4ca" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
