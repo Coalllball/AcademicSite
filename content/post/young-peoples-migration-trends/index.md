@@ -19,4 +19,4 @@ image:
   focal_point: Smart
   preview_only: true
 ---
-<iframe src="https://storymaps.arcgis.com/stories/fa7812bc413c4206ae093604137cd4ca" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+<iframe src="https://storymaps.arcgis.com/stories/fa7812bc413c4206ae093604137cd4ca" width="100%" height="1500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
