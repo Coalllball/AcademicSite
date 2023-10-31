@@ -72,6 +72,8 @@ sections:
           description: 100%
           icon: chart-line
           icon_pack: fas
+        - name: ArcGIS
+          description: Advance
         - name: Photography
           description: 10%
           icon: camera-retro
