@@ -73,7 +73,7 @@ sections:
           icon: chart-line
           icon_pack: fas
         - name: ArcGIS
-          icon: :earth_americas:
+          icon: 🌎
           description: Advance
         - name: Photography
           description: 10%
